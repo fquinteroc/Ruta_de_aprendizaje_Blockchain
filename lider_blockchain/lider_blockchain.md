@@ -30,30 +30,23 @@
     </tr>
     <tr>
       <td>02 - Conceptos técnicos</td>
-      <td>1. Protocolos de Consenso</td>
-      <td>Cifrado: simétrico y asimétrico</td>
+      <td>1. Principales Protocolos de Consenso</td>
+      <td>Lectura introductoria a los principales protocolos de consenso: Proof of Work y Proof of Stake</td>
       <td>https://cryptobook.nakov.com/encryption-symmetric-and-asymmetric</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
       <td>02 - Conceptos técnicos</td>
       <td>2. Hash de Merkle</td>
-      <td>Firmas digitales</td>
+      <td>Sección dedicada a la explicación de arboles de Merkel y su uso en Blockchain</td>
       <td>https://cryptobook.nakov.com/digital-signatures</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
       <td>03 - Fundamentos de Criptomonedas</td>
       <td>1. Criptografía</td>
-      <td>Serie de rompecabezas que enseñan pequeñas lecciones </td>
+      <td>Lectura dedicada a la criptografía simétrica y asimétrica para la creación de llaves en Blockchain</td>
       <td>https://cryptohack.org/</td>
-      <td>:page_facing_up:</td>
-    </tr>
-    <tr>
-      <td>04 - Transacciones de Criptomonedas</td>
-      <td>2. Estructura de Datos</td>
-      <td>Árboles de Merkle</td>
-      <td>https://academy.binance.com/es/articles/merkle-trees-and-merkle-roots-explained</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
