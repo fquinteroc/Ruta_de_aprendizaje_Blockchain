@@ -87,3 +87,78 @@ Buena comprensión de los conceptos de redes.
   </tbody>
 </table>
 <br>
+
+## **Modelos de autenticación/autorización existentes en aplicaciones Web2.0**
+
+Estudio de los fundamentos se seguridad en web 2.0 
+
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Recurso</th>
+      <th>Descripción</th>
+      <th>Modalidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.onelogin.com/learn/how-single-sign-on-works">Single Sign-On</a></td>
+      <td>
+      ¿Cómo funciona Single Sign-On?
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.csoonline.com/article/562635/what-is-oauth-how-the-open-authorization-framework-works.html">OAuth</a>
+      </td>
+      <td>¿Qué es OAuth? Cómo funciona el marco de autorización abierta
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=7Q17ubqLfaM&ab_channel=WebDevSimplified">JWT</a>
+      </td>
+      <td>¿Qué es JWT y por qué debería usarlo?
+      </td>
+      <td>:camera:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.okta.com/identity-101/what-is-token-based-authentication/">Token-Based Authentication</a>
+      </td>
+      <td>¿Qué es la autenticación basada en token?
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://sherryhsu.medium.com/session-vs-token-based-authentication-11a6c5ac45e4">Session vs Token Based Authentication</a>
+      </td>
+      <td>¿Por qué necesitamos sesión o token para la autenticación?
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.ibm.com/docs/en/cics-ts/5.2?topic=web-internet-tcpip-http-concepts">Conceptos de Internet junto con TCP/IP y HTTP</a>
+      </td>
+      <td>Detalles sobre TCP, autenticación básica en http entre otros
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://www.cloudflare.com/en-in/learning/cdn/what-is-caching/">Cache</a>
+      </td>
+      <td>¿Qué es el almacenamiento en caché?
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
+
