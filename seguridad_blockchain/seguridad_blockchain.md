@@ -421,4 +421,68 @@ Esta es una de las redes Blockchain mas relevantes
 </table>
 <br>
 
+## **Smart Contracts**
+
+¿Qué son los contratos inteligentes?
+
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Recurso</th>
+      <th>Descripción</th>
+      <th>Modalidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://lifemathmoney.com/what-is-a-smart-contract-explained-with-real-world-examples/">¿Qué es un contrato inteligente?</a></td>
+      <td>
+       Explicado con ejemplos del mundo real
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=_J6G5g-nKg0&ab_channel=Simplilearn">Conceptos básicos de los contratos inteligentes</a>
+      </td>
+      <td>Incluye contexto y una implementación de ejemplo
+      </td>
+      <td>:video_camera:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://ethereum.org/en/developers/docs/smart-contracts/">Introducción a los contratos inteligentes</a>
+      </td>
+      <td>Definiciones y ejemplos
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://ethereum.org/en/developers/docs/smart-contracts/languages/">Lenguajes de contratos inteligentes</a>
+      </td>
+      <td>Un gran aspecto de Ethereum es que los contratos inteligentes se pueden programar usando lenguajes relativamente amigables para los desarrolladores. 
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://medium.com/quillhash/life-cycle-of-smart-contract-development-8929fa073b7f">Ciclo de vida del desarrollo de contratos inteligentes</a>
+      </td>
+      <td>Una guía detallada para obtener una comprensión completa de los procedimientos involucrados en el desarrollo de un contrato inteligente
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://ethereum.org/en/developers/docs/transactions/">Crear desplegar y usar contratos inteligentes</a>
+      </td>
+      <td>Guías completas para cada paso de su viaje de desarrollo.
+      </td>
+      <td> :books:</td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
