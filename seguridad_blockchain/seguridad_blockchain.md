@@ -276,5 +276,149 @@ Informe en el que se exponen los problemas de seguridad de las aplicaciones web,
 </table>
 <br>
 
+## **Conceptos básicos de Ethereum**
+
+Esta es una de las redes Blockchain mas relevantes 
+
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Recurso</th>
+      <th>Descripción</th>
+      <th>Modalidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://ethereum.org/en/developers/docs/web2-vs-web3/">WEB2 VS WEB3</a></td>
+      <td>
+       La revolución del internet
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://ethereum.org/en/what-is-ethereum/">¿Qué es Ethereum?</a>
+      </td>
+      <td>Una guía básica de introducción
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://medium.com/@reyesale/ethereum-the-world-computer-fb7b58948280">Ethereum: la computadora mundial</a>
+      </td>
+      <td>Una descripción de Ethereum
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.investopedia.com/articles/investing/031416/bitcoin-vs-ethereum-driven-different-purposes.asp">Bitcoin vs. Ethereum: ¿Cuál es la diferencia?</a>
+      </td>
+      <td>Bitcoin vs. Ethereum: una descripción general
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.investopedia.com/tech/what-ether-it-same-ethereum/">¿Qué es el éter (ETH)?</a>
+      </td>
+      <td>La criptomoneda de Ethereum
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://ethereum.org/en/developers/docs/transactions/">Transacciones</a>
+      </td>
+      <td>Las transacciones son instrucciones firmadas criptográficamente desde las cuentas. Una cuenta iniciará una transacción para actualizar el estado de la red Ethereum. La transacción más simple es transferir ETH de una cuenta a otra.
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://ethereum.org/en/developers/docs/accounts/">Ethereum accounts</a>
+      </td>
+      <td>An Ethereum account is an entity with an ether (ETH) balance that can send transactions on Ethereum. Accounts can be user-controlled or deployed as smart contracts.
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://ethereum.org/en/wallets/">Ethereum wallets</a>
+      </td>
+      <td>Wallets give access to your funds and Ethereum applications. Only you should have access to your wallet.
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://eips.ethereum.org/">EIPs</a>
+      </td>
+      <td>Ethereum Improvement Proposals
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://finance.yahoo.com/news/guide-ethereum-erc-standards-150024381.html">ERC standards</a>
+      </td>
+      <td>A guide to Ethereum’s ERC standards
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+      <tr>
+      <td>
+        <a href="https://finance.yahoo.com/news/guide-ethereum-erc-standards-150024381.html">ERC standards</a>
+      </td>
+      <td>A guide to Ethereum’s ERC standards
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://ethereum.org/en/developers/docs/standards/tokens/erc-20/">ERC-20</a>
+      </td>
+      <td>Token standard
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://ethereum.org/en/developers/docs/standards/tokens/erc-721/">ERC-721</a>
+      </td>
+      <td>Non-fungible token standard
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/">ERC-1155</a>
+      </td>
+      <td>Multi-token standard
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://ethereum.org/en/developers/docs/standards/tokens/erc-4626/">ERC-4626</a>
+      </td>
+      <td>Tokenized vault standard
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://github.com/ethereumbook/ethereumbook">Dominar Ethereum</a>
+      </td>
+      <td>Mastering Ethereum es un libro para desarrolladores que ofrece una guía para el funcionamiento y uso de Ethereum, Ethereum Classic, RootStock (RSK) y otras cadenas de bloques abiertas basadas en EVM compatibles.
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
 
