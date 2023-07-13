@@ -486,3 +486,70 @@ Esta es una de las redes Blockchain mas relevantes
 </table>
 <br>
 
+## **Solidity**
+
+El lenguaje de programación de contratos inteligentes más usado
+
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Recurso</th>
+      <th>Descripción</th>
+      <th>Modalidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ&ab_channel=freeCodeCamp.org">Curso general de Blockchain y Solidity</a></td>
+      <td>
+       Aprenda Blockchain, Solidity y desarrollo Full Stack Web3 con JavaScript, curso de 32 horas
+      </td>
+      <td>:books:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://docs.soliditylang.org/en/latest/">Solidity</a>
+      </td>
+      <td>Documentación de Solidity
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cryptozombies.io/en/course/">Solidity Principiante a intermedio</a>
+      </td>
+      <td>Curso interactivo de programación
+      </td>
+      <td>:books:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://remix-ide.readthedocs.io/en/latest/">Documentación de Remix</a>
+      </td>
+      <td>Remix IDE se utiliza para todo el proceso de desarrollo de contratos inteligentes por parte de los usuarios en todos los niveles de conocimiento.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://web3js.readthedocs.io/en/v1.5.2/">web3.js</a>
+      </td>
+      <td>web3.js es una colección de bibliotecas que le permiten interactuar con un nodo ethereum local o remoto mediante HTTP, IPC o WebSocket.
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://solidity-by-example.org/">Solidity by Example</a>
+      </td>
+      <td>Una introducción a Solidity con ejemplos simples
+      </td>
+      <td>:books: </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
+
+
