@@ -31,6 +31,16 @@ Esta guía presenta una serie de conceptos junto con su bibliografía que ayudar
 
 Adcionalmente es importante como insumo tener claro los conceptos propuestos en [conocimiento general](../conocmiento_general/conocimiento_general.md)
 
+<br>
+
+**Lecturas:** :page_facing_up:
+
+**Videos:**  :video_camera:
+
+**Cursos:** :books:
+
+<br>
+
 ## **Fundamentos de Internet**
 
 Buena comprensión de los conceptos de redes.
@@ -123,7 +133,7 @@ Estudio de los fundamentos se seguridad en web 2.0
       </td>
       <td>¿Qué es JWT y por qué debería usarlo?
       </td>
-      <td>:camera:</td>
+      <td>:video_camera:</td>
     </tr>
     <tr>
       <td>
@@ -160,5 +170,111 @@ Estudio de los fundamentos se seguridad en web 2.0
   </tbody>
 </table>
 <br>
+
+## **OWASP Top 10**
+
+Informe en el que se exponen los problemas de seguridad de las aplicaciones web, centrándose en los 10 riesgos más importantes
+
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Recurso</th>
+      <th>Descripción</th>
+      <th>Modalidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://owasp.org/Top10/A01_2021-Broken_Access_Control/">A01</a></td>
+      <td>
+      Vulnerabilidades de control de acceso
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://owasp.org/Top10/A02_2021-Cryptographic_Failures/">A02</a>
+      </td>
+      <td>Fallos criptográficos
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://owasp.org/Top10/A03_2021-Injection/">A03</a>
+      </td>
+      <td>Vulnerabilidades de inyección
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://owasp.org/Top10/A04_2021-Insecure_Design/">A04</a>
+      </td>
+      <td>Diseño inseguro
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://owasp.org/Top10/A05_2021-Security_Misconfiguration/">A05</a>
+      </td>
+      <td>Configuraciones incorrectas de seguridad
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/">A06</a>
+      </td>
+      <td>Componentes vulnerables y obsoletos
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures/">A07</a>
+      </td>
+      <td>Fallos de identificación y autenticación
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://owasp.org/Top10/A08_2021-Software_and_Data_Integrity_Failures/">A08</a>
+      </td>
+      <td>Fallas de integridad de software y datos
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures/">A09</a>
+      </td>
+      <td>Registro de seguridad y fallas de monitoreo
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/">A10</a>
+      </td>
+      <td>Falsificación de solicitud del lado del servidor
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://www.pluralsight.com/cloud-guru/courses/introduction-to-owasp-top-10-security-risks">Introducción a los 10 principales riesgos de seguridad de OWASP</a>
+      </td>
+      <td>Aprenda a defenderse de los riesgos comunes de seguridad de las aplicaciones web con OWASP Top 10.
+      </td>
+      <td>:books: </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
 
 
