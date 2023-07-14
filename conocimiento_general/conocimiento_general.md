@@ -1,3 +1,14 @@
+# Información General
+
+Este el punto de partida perfecto para adentrarse en el fascinante mundo de la tecnología blockchain. Aquí exploraremos los conceptos fundamentales, los principios clave y las características básicas que definen a esta innovadora tecnología.
+
+En esta sección, obtendrás una comprensión sólida de qué es blockchain, cómo funciona y por qué ha generado un impacto revolucionario en diversos sectores. Exploraremos las diferencias entre blockchain público, privado y permisionado, así como los casos de uso y las ventajas que cada uno de ellos ofrece.
+
+A medida que avanzamos en esta sección, también nos adentraremos en los conceptos esenciales que sustentan la tecnología blockchain, como la criptografía, las transacciones, los bloques y la descentralización. Obtendrás una visión clara de cómo se asegura la integridad y la confianza en una red blockchain y cómo se gestionan los activos digitales a través de contratos inteligentes.
+
+No importa tu nivel de conocimiento previo sobre blockchain, esta sección está diseñada para ofrecerte una base sólida y un contexto comprensible para el resto de tu viaje en el mundo de la tecnología blockchain. Prepárate para adentrarte en un emocionante universo de innovación y descubrimiento mientras exploramos los aspectos clave de blockchain en esta sección
+
+<br>
 
 <table>
   <thead>
