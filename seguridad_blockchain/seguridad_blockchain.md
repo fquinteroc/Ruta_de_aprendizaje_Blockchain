@@ -616,5 +616,73 @@ Estas herramientas ayudan a desplegar y probar códigos de prueba de Smart Contr
 </table>
 <br>
 
+## **DEFI y Vectores de ataque de DEFI**
+
+Decentralized finance potencialmente tiene las claves para bancarizar a los no bancarizados y democratizar verdaderamente las finanzas.
+
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Recurso</th>
+      <th>Descripción</th>
+      <th>Modalidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://teachyourselfcrypto.com/#ftoc-module-4-decentralized-finance-defi">Teach yourself crypto (Chapter 4)</a></td>
+      <td>
+       Curso integral para el entendimiento de DEFI y su funcionamiento
+      </td>
+      <td>:books:</td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://101blockchains.com/course/defi-security-fundamentals/">Fundamentos de seguridad de DeFi</a>
+      </td>
+      <td>Amenazas de seguridad comunes para proyectos DeFi, ejemplos prácticos de hacks de DeFi que explotan vulnerabilidades de seguridady mejores prácticas para mitigar los riesgos de seguridad comunes de DeFi
+      </td>
+      <td>:books:</td>
+    </tr>
+         <tr>
+      <td>
+        <a href="https://defi-learning.org/f22s">Decentralized Finance Cousrse</a>
+      </td>
+      <td>Particularmente los Capitulos 10 y 11 de curso se centran en la seguridad en DeFi
+      </td>
+      <td>:books:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.coursera.org/learn/decentralized-finance-opportunities-and-risk-duke">Oportunidades y riesgos de las finanzas descentralizadas (DeFi)</a>
+      </td>
+      <td>Curso que plantea diversos riesgos y oportunidades
+      </td>
+      <td>:books:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://moralismoney.com/blog/defi-deep-dive-explaining-defi-attack-vectors-and-prevention">Vectores de ataque de DEFI</a>
+      </td>
+      <td>Explicación de los vectores de ataque en DEFI y cómo prevenirlos
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Quillhash/DeFi-Attack-Vectors">Vectores de ataque de DEFI</a>
+      </td>
+      <td>Este repositorio contiene una lista de amenazas DeFi comunes y vectores de ataque. QuillAudits mantendrá y actualizará activamente este repositorio.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
+
+
+
 
 
