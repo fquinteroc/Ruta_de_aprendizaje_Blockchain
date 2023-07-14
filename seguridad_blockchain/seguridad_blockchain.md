@@ -551,5 +551,70 @@ El lenguaje de programación de contratos inteligentes más usado
 </table>
 <br>
 
+## **Testing Frameworks**
+
+Estas herramientas ayudan a desplegar y probar códigos de prueba de Smart Contracts para la creación de dApps. 
+
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Recurso</th>
+      <th>Descripción</th>
+      <th>Modalidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://book.getfoundry.sh/">Foundry</a></td>
+      <td>
+       Foundry administra sus dependencias, compila su proyecto, ejecuta pruebas, implementa y le permite interactuar con la cadena desde la línea de comandos y mediante scripts de Solidity.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://hardhat.org/docs">Hardhat</a>
+      </td>
+      <td>Hardhat es un entorno de desarrollo para el software Ethereum. Consta de diferentes componentes para editar, compilar, depurar e implementar sus contratos inteligentes y dApps, todos los cuales trabajan juntos para crear un entorno de desarrollo completo.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://eth-brownie.readthedocs.io/en/stable/">Brownie</a>
+      </td>
+      <td>Brownie es un marco de prueba y desarrollo basado en Python para contratos inteligentes dirigidos a la máquina virtual Ethereum.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://trufflesuite.com/">Truffle</a>
+      </td>
+      <td>Conjunto de herramientas para el desarrollo de contratos inteligentes.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.infura.io/">Infura</a>
+      </td>
+      <td>Conjunto de herramientas para desarrolladores y API de cadena de bloques de alta disponibilidad.
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.openzeppelin.com/contracts">OpenZeppelin</a>
+      </td>
+      <td>OpenZeppelin Contracts lo ayuda a minimizar el riesgo mediante el uso de bibliotecas probadas en batalla de contratos inteligentes para Ethereum y otras cadenas de bloques. Incluye las implementaciones más utilizadas de los estándares ERC.
+      </td>
+      <td>:page_facing_up: </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
 
 
