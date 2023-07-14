@@ -12,7 +12,7 @@ Su rol es clave ya que:
 
 * El valor financiero de algunos activos basados en blockchain, como las criptomonedas, los convierte en objetivos atractivos para los delincuentes.
 
-Esta guía presenta una serie de conceptos junto con su bibliografía que ayudaran a formar al experto divididos en 15 categorías
+Esta guía presenta una serie de conceptos junto con su bibliografía que ayudaran a formar al experto divididos en 14 categorías
 
 * Fundamentos de Internet
 * Modelos de autenticación/autorización existentes en aplicaciones Web2.0
@@ -22,8 +22,7 @@ Esta guía presenta una serie de conceptos junto con su bibliografía que ayudar
 * Solidity
 * Testing Frameworks
 * Vectores de ataque DEFI:
-* Librerias y estándares de token que se usan comúnmente:
-* Seguridad de contratos inteligentes
+* Herramientas y Linters para la seguridad en Smart Contracts
 * Vulnerabilidades en contratos inteligentes
 * Errores de contratos inteligentes y mejores prácticas de seguridad
 * CTF y sus retos
@@ -682,7 +681,86 @@ Decentralized finance potencialmente tiene las claves para bancarizar a los no b
 <br>
 
 
+## **Herramientas y Linters para la seguridad en Smart Contracts**
 
+Diversas herramientas visuales de formato ayudan a tener un código limpio, bien estructurado y seguro.
+
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Recurso</th>
+      <th>Descripción</th>
+      <th>Modalidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor">Solidity Visual Developer</a></td>
+      <td>
+      Esta extensión aporta sintaxis centrada en la seguridad y resaltado semántico, un esquema de clase detallado, vistas especializadas, información avanzada sobre el código de Solidity en Visual Studio Code.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://github.com/ConsenSys/surya">Surya</a>
+      </td>
+      <td>Surya es una herramienta de utilidad para sistemas de contratos inteligentes. Proporciona una serie de resultados visuales e información sobre la estructura de los contratos. También es compatible con la consulta del gráfico de llamada de funciones de varias maneras para ayudar en la inspección manual de los contratos.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+         <tr>
+      <td>
+        <a href="https://github.com/raineorshine/solgraph">Solgraph</a>
+      </td>
+      <td>Genera un gráfico DOT que visualiza el flujo de control de funciones de un contrato de Solidity y destaca posibles vulnerabilidades de seguridad.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ethereum/evmlab">Evmlab</a>
+      </td>
+      <td>Este paquete contiene varias herramientas para interactuar con la máquina virtual Ethereum.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/fergarrui/ethereum-graph-debugger">Ethereum-graph-debugger</a>
+      </td>
+      <td>Este depurador adopta un enfoque diferente a la depuración tradicional. En lugar de recorrer paso a paso la ejecución del programa, muestra todo el gráfico de flujo de control del programa y la ejecución real de la transacción resaltada en rojo. De esta forma, el desarrollador puede ver la imagen completa y saltar donde sea necesario de forma rápida y gráfica.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/blockchainsllc/piet">Piet</a>
+      </td>
+      <td>Piet es una aplicación web que brinda soporte para comprender las arquitecturas de contratos inteligentes. Esto se aborda generando una representación gráfica de tales arquitecturas y la posibilidad de consultar instancias implementadas de contratos inteligentes.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/duaraghav8/Ethlint">Ethlint</a>
+      </td>
+      <td>Ethlint (anteriormente Solium) analiza su código Solidity en busca de problemas de estilo y seguridad y los corrige.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/protofire/solhint">Solhint</a>
+      </td>
+      <td>Este es un proyecto de código abierto para limpiar el código de Solidity. Este proyecto proporciona validaciones tanto de seguridad como de guía de estilo.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
 
 
