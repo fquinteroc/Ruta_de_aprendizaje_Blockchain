@@ -989,3 +989,53 @@ Los retos de captura la bandera o (CTF) son bastante útiles en seguridad. A con
 </table>
 <br>
 
+## **Informes de Auditoría**
+
+Es importante actualizarse continuamente, los informes de auditoria proveen información muy útil en materia de seguridad, algunos ejemplos son.
+
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Recurso</th>
+      <th>Descripción</th>
+      <th>Modalidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://consensys.net/diligence/audits/">ConsenSys Diligence</a></td>
+      <td>
+      ConsenSys Diligence ha ayudado a una amplia gama de proyectos en todo el ecosistema de blockchain para garantizar que sus protocolos estén listos para su lanzamiento y creados para proteger a los usuarios.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://blog.openzeppelin.com/tag/security-audits">Open Zeppelin</a>
+      </td>
+      <td>Revisiones de seguridad a diferentes aplicaciones y protocolos Web 3.0 
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+         <tr>
+      <td>
+        <a href="https://code4rena.com/reports">Code 4 arena</a>
+      </td>
+      <td>Revisiones de seguridad a diferentes aplicaciones y protocolos Web 3.0   
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Quillhash/QuillAudit_Reports">Quill Audit</a>
+      </td>
+      <td>Revisiones de seguridad a diferentes aplicaciones y protocolos Web 3.0 
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
+
