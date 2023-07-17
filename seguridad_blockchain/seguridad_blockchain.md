@@ -924,4 +924,68 @@ Es importante tener la capacidad de auditar un código o de generarlo con las me
 </table>
 <br>
 
+## **CTF y sus retos**
+
+Los retos de captura la bandera o (CTF) son bastante útiles en seguridad. A continuación, se anexan algunos sobre seguridad en Web 3.0
+
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Recurso</th>
+      <th>Descripción</th>
+      <th>Modalidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://ethernaut.openzeppelin.com/">The Ethernaut</a></td>
+      <td>
+      Plantea retos para “hackear” contratos inteligentes.
+      </td>
+      <td>:books:</td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://capturetheether.com/">Capture the ether</a>
+      </td>
+      <td>Presenta desafíos para hackear contratos inteligentes en Ethereum.
+      </td>
+      <td>:books:</td>
+    </tr>
+         <tr>
+      <td>
+        <a href="https://www.damnvulnerabledefi.xyz/">Damn Vulnerable DeFi</a>
+      </td>
+      <td>Damn Vulnerable DeFi es el juego de guerra para aprender la seguridad ofensiva de los contratos inteligentes de DeFi en Ethereum.
+      </td>
+      <td>:books:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://ciphershastra.com/index.html">Cipher Shastra</a>
+      </td>
+      <td>Un lugar donde puede mejorar sus habilidades de seguridad resolviendo y aprendiendo de CTF como desafíos. Los desafíos se centrarán en la seguridad de la cadena de bloques, la explotación de contratos inteligentes y la criptografía.
+      </td>
+      <td>:books:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://blockchain-ctf.securityinnovation.com/#/">Security Innovation Blockchain CTF</a>
+      </td>
+      <td>Esta plataforma Capture the Flag es una aplicación descentralizada (DApp) que contiene una serie de contratos inteligentes vulnerables que deben ser penetrados.
+      </td>
+      <td>:books:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/paradigmxyz/paradigm-ctf-2021">Paradigm-ctf-2021</a>
+      </td>
+      <td>Una serie de retos de seguridad relacionados con Ethereum.
+      </td>
+      <td>:books:</td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
