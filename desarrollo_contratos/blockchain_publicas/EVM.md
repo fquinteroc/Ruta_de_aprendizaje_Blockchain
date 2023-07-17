@@ -52,7 +52,7 @@ Se presentara un ruta a nivel técnico sobre desarrollo de contratos, es importa
       <td>
         <a href="https://github.com/ethereumbook/ethereumbook"> Mastering Ethereum</a>
       </td>
-      <td>Mastering Ethereum es un libro para desarrolladores, que ofrece una guía para el funcionamiento y uso de Ethereum, Ethereum Classic, RootStock [(RSK) y o)]()ras cadenas de bloques abiertas basadas en EVM compatibles.
+      <td>Mastering Ethereum es un libro para desarrolladores, que ofrece una guía para el funcionamiento y uso de Ethereum, Ethereum Classic, RootStock (RSK) y otras cadenas de bloques abiertas basadas en EVM compatibles.
       </td>
       <td>:page_facing_up:</td>
     </tr>
