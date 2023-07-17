@@ -24,7 +24,7 @@ Esta guía presenta una serie de conceptos junto con su bibliografía que ayudar
 * Vectores de ataque DEFI:
 * Herramientas y Linters para la seguridad en Smart Contracts
 * Vulnerabilidades en contratos inteligentes
-* Errores de contratos inteligentes y mejores prácticas de seguridad
+* Auditar código: Bugs y mejores prácticas de seguridad en Smart Contracts
 * CTF y sus retos
 * Informes de Auditoría:
 
@@ -867,5 +867,61 @@ Existen diversas vulnerabilidades de todo tipo en los contratos inteligentes, a 
 </table>
 <br>
 
+## **Auditar código: Bugs y mejores prácticas de seguridad en Smart Contracts**
+
+Es importante tener la capacidad de auditar un código o de generarlo con las mejores practicas de seguridad para tal fin se presenta la siguiente bibliografía.
+
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Recurso</th>
+      <th>Descripción</th>
+      <th>Modalidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://secureum.substack.com/p/audit-techniques-and-tools-101">Técnicas y herramientas de auditoría 101</a></td>
+      <td>
+      Documento con 100 puntos para tener en cuenta al momento de auditar código.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+     <tr>
+      <td>
+        <a href="https://secureum.substack.com/p/security-pitfalls-and-best-practices-101">Errores de seguridad y mejores prácticas 101</a>
+      </td>
+      <td>100 puntos para tener en cuenta al revisar contratos inteligentes.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+         <tr>
+      <td>
+        <a href="https://secureum.substack.com/p/security-pitfalls-and-best-practices-201">Errores de seguridad y mejores prácticas 201</a>
+      </td>
+      <td>100 puntos para tener en cuenta al revisar contratos inteligentes.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://secureum.substack.com/p/audit-findings-101">Hallazgos de auditoría 101</a>
+      </td>
+      <td>100 hallazgos que se deben tener en cuenta para auditar contratos inteligentes.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://secureum.substack.com/p/audit-findings-201">Hallazgos de auditoría 201</a>
+      </td>
+      <td>100 hallazgos que se deben tener en cuenta para auditar contratos inteligentes.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
 
