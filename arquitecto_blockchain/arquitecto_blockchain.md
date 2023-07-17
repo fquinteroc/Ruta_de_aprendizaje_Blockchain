@@ -16,8 +16,6 @@ Si quieres ser arquitecto de software, echa un vistazo a las siguientes opciones
 Opciones de formación para convertirte en arquitecto de software
 Máster en Desarrollo y Arquitectura de Software
 
-Se trata de una formación del BES Business Engineering School La Salle / U. Ramón Llull de 9 meses de duración en Barcelona dividida en 60 ECT’s.
-
 Para poder entrar en este Máster hay que cumplir una serie de requisitos:
 
 Ingenieros y Graduados en Informática.
