@@ -76,13 +76,7 @@ El libro [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) es u
 * Capítulo 5: [Carteras](https://github.com/ethereumbook/ethereumbook/blob/develop/05wallets.asciidoc)
 *	Capítulo 6: [Operaciones](https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc)
 *	Capítulo 7: [Contratos inteligentes y solidez](https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc)
-*	Capítulo 8: [Contratos inteligentes y Vyper](https://github.com/ethereumbook/ethereumbook/blob/develop/08smart-contracts-vyper.asciidoc)
-*	Capítulo 9: [Seguridad de contratos inteligentes](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc)
-*	Capítulo 10: [Tokens](https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc)
-*	Capítulo 11: [Oráculos](https://github.com/ethereumbook/ethereumbook/blob/develop/11oracles.asciidoc)
-*	Capítulo 12: [Aplicaciones descentralizadas (DApps)](https://github.com/ethereumbook/ethereumbook/blob/develop/12dapps.asciidoc)
-*	Capítulo 13: [La máquina virtual Ethereum](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc)
-*	Capítulo 14: [Consenso](https://github.com/ethereumbook/ethereumbook/blob/develop/14consensus.asciidoc)
+
 
 ---
 <br>
@@ -90,6 +84,8 @@ El libro [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) es u
 ## **Solidity**
 
 Familiarízate con el lenguaje de programación Solidity, utilizado para escribir contratos inteligentes en Ethereum. Aprende los conceptos fundamentales de Solidity, como tipos de datos, estructuras de control, funciones y eventos.
+
+Los siguientes recursos le ayudaran a optener el conocimiento inicial que le ayudaran a ser productivo rapidamente, estos recursos van directamete aprender las particularidades del elnguaje Solidity.
 
 <br>
 
@@ -153,6 +149,8 @@ Familiarízate con el lenguaje de programación Solidity, utilizado para escribi
 ### **Tutoriales**
 
 Profundiza en el desarrollo de contratos inteligentes con Solidity. Aprende a crear contratos desde cero, implementar lógica de negocio, manejar la interacción con otros contratos y gestionar eventos.
+
+En estos tutoriales podremos encontrar temas mas especificios y resolver muchas dudas, se encontrara desarrollando tokens, desplegando contratos, haciendo pruebas unitarias, usando varias herramientas que le facilitaran su trabajo como desarrollador blockchain.
 
 <br>
 
