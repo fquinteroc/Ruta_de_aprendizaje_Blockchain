@@ -7,7 +7,7 @@ Los avances en criptografía han permitido a blockchain ofrecer soluciones más 
 
 ## Linea De Tiempo
 
-<image src="/imagenes\Linea_tiempo\Linea de tiempo Blockchain_1.jpg" alt="Descripción de la imagen">
+<image src="/imagenes/Linea_tiempo/Linea de tiempo Blockchain_1.jpg" alt="Linea del tiempo">
 
 
 ## Contenido:
@@ -56,9 +56,9 @@ Se refiere a la próxima era de la World Wide Web, en la que la inteligencia art
   
   ## Alan Turing
 
-  ![Alan_turing_portrait_1.png](/imagenes\Linea_tiempo\Alan_turing_portrait_1.png)
-
   **Alan Turing** fue un matemático, lógico y criptógrafo británico considerado como el padre de la cibernética y un pionero en el campo de la inteligencia artificial. Durante la Segunda Guerra Mundial, trabajó en el Reino Unido en el descifrado del cifrado alemán en la Máquina Enigma, lo que jugó un papel crucial en la victoria Aliada en la guerra. También propuso el concepto de la máquina universal de Turing, que es un modelo teórico de una computadora y que se considera una de las bases de la computación moderna. Además, Turing es reconocido por sus contribuciones a la comprensión de la naturaleza de la mente y la consciencia.
+
+  ![Alan_turing_portrait_1.png](/imagenes/Linea_tiempo/Alan_turing_portrait_1.png)
 </details>
 
 <details>
@@ -69,9 +69,9 @@ Se refiere a la próxima era de la World Wide Web, en la que la inteligencia art
 
 La criptografía asimétrica, también conocida como criptografía de clave pública, es una técnica de cifrado que utiliza dos claves diferentes para cifrar y descifrar información. En la criptografía asimétrica, una clave se utiliza para cifrar los datos (clave pública) y otra se utiliza para descifrarlos (clave privada). Esto significa que cualquiera puede enviar un mensaje cifrado a alguien utilizando su clave pública, pero solo la persona que posee la clave privada correspondiente puede descifrar el mensaje.
 
-![crip_asimetrica_1.jpg](/imagenes\Linea_tiempo\crip_asimetrica_1.jpg)
+![crip_asimetrica_1.jpg](/imagenes/Linea_tiempo/crip_asimetrica_1.jpg)
 
-![crip_asimetrica_2.jpg](/imagenes\Linea_tiempo\crip_asimetrica_2.jpg)
+![crip_asimetrica_2.jpg](/imagenes/Linea_tiempo/crip_asimetrica_2.jpg)
 
 La criptografía asimétrica es más segura que la criptografía simétrica, ya que la clave pública puede ser conocida por cualquiera sin afectar la seguridad de los datos, mientras que la clave privada debe ser protegida y mantenida en secreto. Además, la criptografía asimétrica es más flexible que la criptografía simétrica, ya que permite que dos partes diferentes realicen una comunicación segura sin tener que compartir previamente una clave secreta. 
 
@@ -82,7 +82,7 @@ La criptografía asimétrica se utiliza ampliamente en aplicaciones como la segu
 ## **Whitfield Diffie**
 
 Es un matemático y criptógrafo estadounidense, Es acreditado por desarrollar la primera forma práctica de la criptografía asimétrica en 1976 (también conocido como "Diffie-Hellman"). Diffie ha contribuido significativamente al campo de la criptografía y se ha destacado como defensor de la privacidad en línea. En 2015, recibió el premio Turing por sus contribuciones a la criptografía y la seguridad de la información.
-![Whitfield Diffie](/imagenes\Linea_tiempo\Whitfield_Diffie.png)
+![Whitfield Diffie](/imagenes/Linea_tiempo/Whitfield_Diffie.png)
 
 
 ---
@@ -91,7 +91,7 @@ Es un matemático y criptógrafo estadounidense, Es acreditado por desarrollar l
 
 Es un matemático y criptólogo estadounidense, conocido por sus contribuciones a la criptografía asimétrica. Obtuvo su PhD en Matemáticas en la Universidad de Stanford en 1968. Es acreditado por desarrollar la primera forma práctica de la criptografía asimétrica en 1976. Esta tecnología revolucionó la seguridad en línea y es esencial para la privacidad y seguridad en la tecnología de la información y la criptografía moderna. En 2015, recibió el premio Turing por sus contribuciones a la criptografía y la seguridad de la información.
 
-![Martin Hellman](/imagenes\Linea_tiempo\Martin_Hellman.png)
+![Martin Hellman](/imagenes/Linea_tiempo/Martin_Hellman.png)
 
 ---
 </details>
@@ -128,7 +128,7 @@ Chaum creó un paper sobre criptografía aplicada y presentó un nuevo enfoque q
 
 Es el inventor de muchos protocolos criptográficos, así como ecash y DigiCash.
  Su artículo de 1981, "Correo Electrónico de rastro oculto, Direcciones de Regreso, y Seudónimos Digitales", sentó las bases para el campo de la investigación de las comunicaciones anónimas.
-![David Chaum](/imagenes\Linea_tiempo\David_Chaum.png)
+![David Chaum](/imagenes/Linea_tiempo/David_Chaum.png)
 
 ---
 
@@ -137,7 +137,7 @@ Es el inventor de muchos protocolos criptográficos, así como ecash y DigiCash.
 Tim May se interesó desde joven en la física, química y computación y estudió en la Universidad de California. Trabajo en Intel y a los 36 años decidió retirarse después de tener suficiente dinero. Inspirado en el paper de David Chaum sobre anonimidad selectiva en credenciales digitales, como anarquista, se entusiasmó con la idea de una economía sin regulaciones y sin poder del estado.
 
  En 1988, publicó el manifiesto cryptoanarquista, llamando a la revolución para defender la privacidad y construir una economía anárquica. Conoció a Eric Hughes, un programador y matemático, y juntos organizaron una fiesta para presentar la idea a 40 amigos programadores y criptógrafos, lo que dio lugar al proyecto CypherPunks.
-![Timothy May](/imagenes\Linea_tiempo\Timothy_May.png)
+![Timothy May](/imagenes/Linea_tiempo/Timothy_May.png)
 
 [¿Quién es Timothy May?](https://academy.bit2me.com/quien-es-timothy-may/)
 
@@ -147,7 +147,7 @@ Tim May se interesó desde joven en la física, química y computación y estudi
 
 Eric Hughes, es un  matemático, criptógrafo y programador de ordenadores estadounidense. Su popularidad encuentra el origen en su  participación en la fundación del movimiento cypherpunk.
 
-![Untitled](/imagenes\Linea_tiempo\Eric_Hughes.png)
+![Untitled](/imagenes/Linea_tiempo/Eric_Hughes.png)
 
 [¿Quién es Eric Hughes?](https://academy.bit2me.com/quien-es-eric-hughes/)
 
