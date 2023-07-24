@@ -73,6 +73,13 @@ Aprende el lenguaje de programación utilizado para escribir smart contracts en 
 Comprende los conceptos de contratos inteligentes, incluyendo la sintaxis, la estructura y las mejores prácticas de programación.
 Practica el desarrollo de smart contracts básicos y avanza hacia casos de uso más complejos.
 
+<br>
+
+<img src="../imagenes/hyperledger.png"/>
+
+<br>
+
+
 <table>
   <thead>
     <tr>
