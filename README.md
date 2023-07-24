@@ -1,4 +1,9 @@
+<img src="./imagenes/blockchain.webp"/>
+
+<br>
+
 # Ruta de conocimiento en Blockchain
+
 <br>
 
 ## **Roles Blockchain**
