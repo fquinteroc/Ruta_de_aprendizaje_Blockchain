@@ -1,17 +1,16 @@
-# **Ruta EVM Completa**
+# **Ruta EVM**
 
 <br>
 
 Profundiza en el desarrollo de contratos inteligentes con Solidity. Aprende a crear contratos desde cero, implementar lógica de negocio, manejar la interacción con otros contratos y gestionar eventos.
 
-En estos tutoriales podrás encontrar temas más específicos y resolver muchas dudas. Aprenderás a desarrollar tokens, desplegar contratos, hacer pruebas unitarias y utilizar diversas herramientas que te facilitarán tu trabajo como desarrollador blockchain.
+Estos tutoriales te proporcionarán una comprensión más detallada y resolverán muchas de tus dudas. Aprenderás a desarrollar tokens, desplegar contratos, realizar pruebas unitarias y utilizar diversas herramientas que te facilitarán tu trabajo como desarrollador blockchain.
 
 <br>
 
 ## **Tutoriales**
 
 <br>
-
 <table>
   <thead>
     <tr>
@@ -24,13 +23,13 @@ En estos tutoriales podrás encontrar temas más específicos y resolver muchas 
     <tr>
       <td><a href="https://learnweb3.io/degrees/ethereum-developer-degree)">Ethereum Developer Degree</a></td>
       <td>
-      Construido por LearnWeb3. Si eres un desarrollador que no tiene conocimientos previos de blockchain y criptografía, el Ethereum Developer Degree es el paso perfecto para pasar de no tener conocimiento de fondo a poder construir múltiples aplicaciones y comprender varios protocolos, marcos y conceptos clave en el espacio.
+        Construido por LearnWeb3. Si eres un desarrollador que no tiene conocimientos previos de blockchain y criptografía, el Ethereum Developer Degree es el paso perfecto para pasar de no tener conocimiento de fondo a poder construir múltiples aplicaciones y comprender varios protocolos, marcos y conceptos clave en el espacio.
       </td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
       <td>
-        <a href="https://university.alchemy.com/overview/ethereum"> Ethereum Developer Bootcamp</a>
+        <a href="https://university.alchemy.com/overview/ethereum">Ethereum Developer Bootcamp</a>
       </td>
       <td>Construido por Alchemy: Desarrollará sus habilidades desde cero con fundamentos sólidos que le brindarán la capacidad de adaptarse a este ecosistema en rápida evolución. Esta experiencia de bootcamp definitiva pone un gran énfasis en aprender haciendo y en la comunidad.
       </td>
@@ -38,99 +37,97 @@ En estos tutoriales podrás encontrar temas más específicos y resolver muchas 
     </tr>
     <tr>
       <td>
-        <a href="https://cryptozombies.io/es/"> cryptozombies</a>
+        <a href="https://cryptozombies.io/es/">CryptoZombies</a>
       </td>
       <td>CryptoZombies es una escuela de programación interactiva que enseña a crear contratos inteligentes en Solidity mientras construyes tu propio juego cripto-coleccionable.
       </td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-    <tr>
       <td>
-        Introducción a Ethereum Development
-        <br>
-        <a href="https://www.youtube.com/watch?v=zoJb3G8TQcE"> Clase I </a> --
-        <a href="https://www.youtube.com/watch?v=i1IW9lK4mQw"> Clase II</a>
+        Introducción a Ethereum Development<br>
+        <a href="https://www.youtube.com/watch?v=zoJb3G8TQcE">Clase I</a> --
+        <a href="https://www.youtube.com/watch?v=i1IW9lK4mQw">Clase II</a>
       </td>
       <td>Curso que consta de dos partes, en donde se desarrollan temas como:
-      Qué es un Smart Contract?
-      Qué es Ethereum?
-      Ethereum Virtual Machine (EVM)
-      Hardhat
-      Anatomía de un Smart Contract
-      Deployment
+        - Qué es un Smart Contract?
+        - Qué es Ethereum?
+        - Ethereum Virtual Machine (EVM)
+        - Hardhat
+        - Anatomía de un Smart Contract
+        - Deployment
       </td>
       <td>:camera:</td>
     </tr>
     <tr>
       <td>
-        <a href="https://www.youtube.com/watch?v=M576WGiDBdQ"> Patrick Collins : Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial </a>
+        <a href="https://www.youtube.com/watch?v=M576WGiDBdQ">Patrick Collins: Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial</a>
       </td>
       <td>
-      Este curso en Ingles te va a dar una introducción completa de los conceptos de blockchain, smart contracts, solidity, NFT/ERC721s, ERC20s, programación de Finanzas Descentralizadas (DeFi), python, Chainlink, Ethereum, upgradable smart contracts, y desarrollo full stack.
-      </td>
-      <td>:camera:</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.youtube.com/watch?v=yN3zpI3sNAE&t=13766s"> Solidity, Blockchain y Smart Contracts - De Cero a Experto</a>
-      </td>
-      <td>
-      Este curso en Español te va a dar una introducción completa de los conceptos de blockchain, smart contracts, solidity, NFT/ERC721s, ERC20s, programación de Finanzas Descentralizadas (DeFi), python, Chainlink, Ethereum, upgradable smart contracts, y desarrollo full stack.
+        Este curso en Inglés te dará una introducción completa de los conceptos de blockchain, smart contracts, solidity, NFT/ERC721s, ERC20s, programación de Finanzas Descentralizadas (DeFi), python, Chainlink, Ethereum, upgradable smart contracts y desarrollo full stack.
       </td>
       <td>:camera:</td>
     </tr>
     <tr>
       <td>
-        <a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=16700s"> Aprenda Blockchain, Solidity y Full Stack Web3 Development con JavaScript - Curso de 32 horas</a>
+        <a href="https://www.youtube.com/watch?v=yN3zpI3sNAE&t=13766s">Solidity, Blockchain y Smart Contracts - De Cero a Experto</a>
       </td>
       <td>
-      Este curso en ingles le dará una introducción completa a todos los conceptos básicos relacionados con blockchain, contratos inteligentes, Solidity, ERC20s, dapps Web3 full stack, finanzas descentralizadas (DeFi), JavaScript, TypeScript, Chainlink, Ethereum, contratos inteligentes actualizables, DAO,El moralis, aave, IPFS y más.
-      </td>
-      <td>:camera:</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.youtube.com/watch?v=8dRAd-Bzc_E&t=1713s"> Cómo hacer una Stablecoin | Extracto del curso completo de Foundry</a>
-      </td>
-      <td>
-     Curso en donde se codificara una moneda estable y se enseñara como hacer pruebas avanzadas con Foundry al codigo generado.
-      </td>
-      <td>:camera:</td>
-    </tr>
-     <tr>
-      <td>
-        <a href="https://www.youtube.com/watch?v=umepbfKp5rI&t=5s"> Aprenda solidez, desarrollo de blockchain y contratos inteligentes | Desarrollado por AI - Curso completo (0 - 6)</a>
-      </td>
-      <td>
-     Este curso le dará una introducción completa a todos los conceptos básicos relacionados con blockchain, contratos inteligentes, Solidity, ERC20s, dapps Web3 de pila completa, finanzas descentralizadas (DeFi), Chainlink, Ethereum, contratos inteligentes actualizables, DAO, aave, IPFS y más.
+        Este curso en Español te dará una introducción completa de los conceptos de blockchain, smart contracts, solidity, NFT/ERC721s, ERC20s, programación de Finanzas Descentralizadas (DeFi), python, Chainlink, Ethereum, upgradable smart contracts y desarrollo full stack.
       </td>
       <td>:camera:</td>
     </tr>
     <tr>
       <td>
-        <a href="https://www.youtube.com/watch?v=sas02qSFZ74"> Aprenda solidez, desarrollo de blockchain y contratos inteligentes | Desarrollado por AI - Curso completo (7 - 11)</a>
+        <a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=16700s">Aprenda Blockchain, Solidity y Full Stack Web3 Development con JavaScript - Curso de 32 horas</a>
       </td>
       <td>
-     Este curso le dará una introducción completa a todos los conceptos básicos relacionados con blockchain, contratos inteligentes, Solidity, ERC20s, dapps Web3 de pila completa, finanzas descentralizadas (DeFi), Chainlink, Ethereum, contratos inteligentes actualizables, DAO, aave, IPFS y más.
-      </td>
-      <td>:camera:</td>
-    </tr>
-     <tr>
-      <td>
-        <a href="https://www.youtube.com/watch?v=wUjYK5gwNZs&t=4104s"> Aprenda solidez, desarrollo de blockchain y contratos inteligentes | Desarrollado por AI - Curso completo (12 - 15)</a>
-      </td>
-      <td>
-     Este curso le dará una introducción completa a todos los conceptos básicos relacionados con blockchain, contratos inteligentes, Solidity, ERC20s, dapps Web3 de pila completa, finanzas descentralizadas (DeFi), Chainlink, Ethereum, contratos inteligentes actualizables, DAO, aave, IPFS y más.
+        Este curso en Inglés te dará una introducción completa a todos los conceptos básicos relacionados con blockchain, contratos inteligentes, Solidity, ERC20s, dApps Web3 full stack, finanzas descentralizadas (DeFi), JavaScript, TypeScript, Chainlink, Ethereum, contratos inteligentes actualizables, DAO, Moralis, Aave, IPFS y más.
       </td>
       <td>:camera:</td>
     </tr>
-     <tr>
+    <tr>
       <td>
-        <a href="https://www.rareskills.io/learn-solidity"> Tutorial de Solidity - rareskills</a>
+        <a href="https://www.youtube.com/watch?v=8dRAd-Bzc_E&t=1713s">Cómo hacer una Stablecoin | Extracto del curso completo de Foundry</a>
       </td>
       <td>
-      Pasarás más tiempo codificando que leyendo materiales o viendo videos. Le proporcionaremos la información suficiente para comenzar, luego le proporcionaremos algunos problemas de práctica diseñados para hacer cumplir lo que acaba de aprender. Los problemas de práctica son una parte muy importante del aprendizaje del idioma. Si solo tienes curiosidad, está bien leer el contenido.
+        Curso en donde se codificará una moneda estable y se enseñará cómo hacer pruebas avanzadas con Foundry al código generado.
+      </td>
+      <td>:camera:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=umepbfKp5rI&t=5s">Aprenda solidez, desarrollo de blockchain y contratos inteligentes | Desarrollado por AI - Curso completo (0 - 6)</a>
+      </td>
+      <td>
+        Este curso le dará una introducción completa a todos los conceptos básicos relacionados con blockchain, contratos inteligentes, Solidity, ERC20s, dApps Web3 de pila completa, finanzas descentralizadas (DeFi), Chainlink, Ethereum, contratos inteligentes actualizables, DAO, Aave, IPFS y más.
+      </td>
+      <td>:camera:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=sas02qSFZ74">Aprenda solidez, desarrollo de blockchain y contratos inteligentes | Desarrollado por AI - Curso completo (7 - 11)</a>
+      </td>
+      <td>
+        Este curso le dará una introducción completa a todos los conceptos básicos relacionados con blockchain, contratos inteligentes, Solidity, ERC20s, dApps Web3 de pila completa, finanzas descentralizadas (DeFi), Chainlink, Ethereum, contratos inteligentes actualizables, DAO, Aave, IPFS y más.
+      </td>
+      <td>:camera:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=wUjYK5gwNZs&t=4104s">Aprenda solidez, desarrollo de blockchain y contratos inteligentes | Desarrollado por AI - Curso completo (12 - 15)</a>
+      </td>
+      <td>
+        Este curso le dará una introducción completa a todos los conceptos básicos relacionados con blockchain, contratos inteligentes, Solidity, ERC20s, dApps Web3 de pila completa, finanzas descentralizadas (DeFi), Chainlink, Ethereum, contratos inteligentes actualizables, DAO, Aave, IPFS y más.
+      </td>
+      <td>:camera:</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.rareskills.io/learn-solidity">Tutorial de Solidity - rareskills</a>
+      </td>
+      <td>
+        Pasarás más tiempo codificando que leyendo materiales o viendo videos. Le proporcionaremos la información suficiente para comenzar, luego le proporcionaremos algunos problemas de práctica diseñados para hacer cumplir lo que acaba de aprender. Los problemas de práctica son una parte muy importante del aprendizaje del idioma. Si solo tienes curiosidad, está bien leer el contenido.
       </td>
       <td>:page_facing_up:</td>
     </tr>
@@ -143,10 +140,11 @@ En estos tutoriales podrás encontrar temas más específicos y resolver muchas 
 
 <br>
 
-:camera: *El curso Aprenda solidez, desarrollo de blockchain y contratos inteligentes | Desarrollado por AI* se compone de 3 videos que juntos suman mas de 30 horas de contenido de calidad. Es un recurso importante para el aprendizaje de Solidity y algunas herramientas importantes como Foundry. El curso se compone de la siguiente manera.
+:camera: *El curso Aprenda solidez, desarrollo de blockchain y contratos inteligentes | Desarrollado por AI* se compone de 3 videos que juntos suman más de 30 horas de contenido de calidad. Es un recurso importante para el aprendizaje de Solidity y algunas herramientas importantes como Foundry. El curso se compone de la siguiente manera.
+
+<br>
 
 (I) [Aprenda solidez, desarrollo de blockchain y contratos inteligentes | Desarrollado por AI - Curso completo (0 - 6)](https://www.youtube.com/watch?v=umepbfKp5rI&t=5s)
-
 
 ⌨️ [(0:00:00)](https://www.youtube.com/watch?v=umepbfKp5rI&t=0s) | Lección 0 | Bienvenidos al Curso
 
@@ -180,27 +178,27 @@ En estos tutoriales podrás encontrar temas más específicos y resolver muchas 
 
 (III) [Aprenda solidez, desarrollo de blockchain y contratos inteligentes | Desarrollado por AI - Curso completo (12 - 15)](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=4104s)
 
-⌨️ [(0:00:00)](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=0s) | Lesson 12 | DeFi Stablecoin
+⌨️ [(0:00:00)](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=0s) | Lección 12 | DeFi Stablecoin
 
-⌨️ [(4:47:00)](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=17220s) | Lesson 13 | Upgradable Contracts & Proxies
+⌨️ [(4:47:00)](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=17220s) | Lección 13 | Upgradable Contracts & Proxies
 
-⌨️ [(6:05:45)](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=21945s) | Lesson 14 | DAOs & Gobernanza
+⌨️ [(6:05:45)](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=21945s) | Lección 14 | DAOs & Gobernanza
 
-⌨️ [(7:21:12)](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=26472s) | Lesson 15 | Seguridad y auditoría
+⌨️ [(7:21:12)](https://www.youtube.com/watch?v=wUjYK5gwNZs&t=26472s) | Lección 15 | Seguridad y auditoría
 
 <br>
 
 Al recorrer estos recursos se tendrá una excelente base a nivel técnico y teórico para poder desarrollar, probar, desplegar e interactuar con sus contratos inteligentes compatible con la maquina virtual de Etehreum (EVM).
 
 ---
----
+
 <br>
 
 ### **Herramientas y Frameworks**
 
 Explora las diversas herramientas y frameworks disponibles para el desarrollo de contratos inteligentes en Solidity. Conoce los frameworks más populares, como Truffle, Hardhat y Foundry, que te brindan un entorno de desarrollo y pruebas más avanzado.
 
-A continuación se enumeran recursos que pueden ser utilizados en el ciclo de desarrollo de contratos o aplicaciones descentralizadas. No todos son utilizados, se listan como recursos que pueden ser usados según su preferencia. Encontrarás nuestra sugerencia acompañada de :star:
+A continuación, se enumeran recursos que pueden ser utilizados en el ciclo de desarrollo de contratos o aplicaciones descentralizadas. No todos son necesarios, se listan como recursos que pueden ser usados según tu preferencia. Encontrarás nuestra sugerencia acompañada de :star:
 
 <br>
 
@@ -216,89 +214,116 @@ A continuación se enumeran recursos que pueden ser utilizados en el ciclo de de
     <tr>
       <td><a href="https://trufflesuite.com/">Introducción a Ethereum</a></td>
       <td>
-     El marco de desarrollo, prueba e implementación de contratos inteligentes más popular. La suite Truffle incluye Ganache, and Drizzl.
+        El marco de desarrollo, prueba e implementación de contratos inteligentes más popular. La suite Truffle incluye Ganache, and Drizzle.
       </td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
       <td>
-        <a href="https://hardhat.org/">Hardhat </a>:star:
+        <a href="https://hardhat.org/">Hardhat</a> :star:
       </td>
-      <td>Entorno de desarrollo Ethereum flexible, extensible y rápido.
+      <td>
+        Entorno de desarrollo Ethereum flexible, extensible y rápido.
       </td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
       <td>
-        <a href="https://book.getfoundry.sh/">Foundry</a>:star:
+        <a href="https://book.getfoundry.sh/">Foundry</a> :star:
       </td>
-      <td>Cadena de herramientas de desarrollo de contratos inteligentes. Foundry administra sus dependencias, compila su proyecto, ejecuta pruebas, implementa y le permite interactuar con la cadena desde la línea de comandos.
+      <td>
+        Cadena de herramientas de desarrollo de contratos inteligentes. Foundry administra sus dependencias, compila su proyecto, ejecuta pruebas, implementa y le permite interactuar con la cadena desde la línea de comandos.
       </td>
       <td>:page_facing_up:</td>
     </tr>
-  <tr>
-    <td><a href="https://github.com/iamdefinitelyahuman/brownie">Brownie</a></td>
-    <td>Brownie es un marco de Python para implementar, probar e interactuar con contratos inteligentes de Ethereum.</td>
-    <td>:page_facing_up:</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/embark-framework/embark">Embark</a></td>
-    <td>Marco para el desarrollo de DApp.</td>
-    <td>:page_facing_up:</td>
-  </tr>
-  <tr>
-    <td><a href="https://getwaffle.io/">Waffle</a></td>
-    <td>Marco para el desarrollo y prueba de contratos inteligentes avanzados, pequeño, flexible, rápido (basado en ethers.js).</td>
-    <td>:page_facing_up:</td>
-  </tr>
-  <tr>
-    <td><a href="https://dapp.tools/dapp/">Dapp</a></td>
-    <td>Framework para el desarrollo de DApp, sucesor de DApple.</td>
-    <td>:page_facing_up:</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/LimeChain/etherlime">Etherlime</a></td>
-    <td>Marco basado en ethers.js para la implementación de Dapp.</td>
-    <td>:page_facing_up:</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Lamarkaz/parasol">Parasol</a></td>
-    <td>Entorno ágil de desarrollo de contratos inteligentes con pruebas, implementación de INFURA, documentación automática de contratos y más. Cuenta con un diseño flexible y sin opiniones con personalización ilimitada.</td>
-    <td>:page_facing_up:</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/0xcert/framework/">0xcert</a></td>
-    <td>Marco de JavaScript para crear aplicaciones descentralizadas.</td>
-    <td>:page_facing_up:</td>
-  </tr>
-  <tr>
-    <td><a href="https://openzeppelin.com/sdk/">OpenZeppelin SDK </a>:star:</td>
-    <td>OpenZeppelin SDK: Un conjunto de herramientas para ayudarle a desarrollar, compilar, actualizar, implementar e interactuar con contratos inteligentes.</td>
-    <td>:page_facing_up:</td>
-  </tr>
-  <tr>
-    <td><a href="https://sbt-ethereum.io/">sbt-ethereum</a></td>
-    <td>Una consola basada en texto con pestañas completas para la interacción y el desarrollo de contratos inteligentes, incluida la gestión de billeteras y ABI, soporte ENS e integración avanzada de Scala.</td>
-    <td>:page_facing_up:</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/cobraframework/cobra">Cobra</a></td>
-    <td>Un marco de entorno de desarrollo rápido, flexible y simple para el contrato inteligente de Ethereum, pruebas e implementación en la máquina virtual Ethereum (EVM).</td>
-    <td>:page_facing_up:</td>
-  </tr>
-  <tr>
-    <td><a href="https://docs.epirus.io/sdk/">Epirus</a></td>
-    <td>Marco Java para la construcción de contratos inteligentes.</td>
-    <td>:page_facing_up:</td>
-  </tr>
-  <tr>
-    <td><a href="https://etherspot.io/">Etherspot</a></td>
-    <td>MultiChain Smart Wallet SDK, soporta la mayoría de las cadenas compatibles con EVM.</td>
-    <td>:page_facing_up:</td>
-  </tr>
-
+    <tr>
+      <td><a href="https://github.com/iamdefinitelyahuman/brownie">Brownie</a></td>
+      <td>
+        Brownie es un marco de Python para implementar, probar e interactuar con contratos inteligentes de Ethereum.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/embark-framework/embark">Embark</a></td>
+      <td>
+        Marco para el desarrollo de DApp.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td><a href="https://getwaffle.io/">Waffle</a></td>
+      <td>
+        Marco para el desarrollo y prueba de contratos inteligentes avanzados, pequeño, flexible, rápido (basado en ethers.js).
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td><a href="https://dapp.tools/dapp/">Dapp</a></td>
+      <td>
+        Framework para el desarrollo de DApp, sucesor de DApple.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LimeChain/etherlime">Etherlime</a></td>
+      <td>
+        Marco basado en ethers.js para la implementación de Dapp.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Lamarkaz/parasol">Parasol</a></td>
+      <td>
+        Entorno ágil de desarrollo de contratos inteligentes con pruebas, implementación de INFURA, documentación automática de contratos y más. Cuenta con un diseño flexible y sin opiniones con personalización ilimitada.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/0xcert/framework/">0xcert</a></td>
+      <td>
+        Marco de JavaScript para crear aplicaciones descentralizadas.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td><a href="https://openzeppelin.com/sdk/">OpenZeppelin SDK</a> :star:</td>
+      <td>
+        OpenZeppelin SDK: Un conjunto de herramientas para ayudarle a desarrollar, compilar, actualizar, implementar e interactuar con contratos inteligentes.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td><a href="https://sbt-ethereum.io/">sbt-ethereum</a></td>
+      <td>
+        Una consola basada en texto con pestañas completas para la interacción y el desarrollo de contratos inteligentes, incluida la gestión de billeteras y ABI, soporte ENS e integración avanzada de Scala.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cobraframework/cobra">Cobra</a></td>
+      <td>
+        Un marco de entorno de desarrollo rápido, flexible y simple para el contrato inteligente de Ethereum, pruebas e implementación en la máquina virtual Ethereum (EVM).
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.epirus.io/sdk/">Epirus</a></td>
+      <td>
+        Marco Java para la construcción de contratos inteligentes.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
+    <tr>
+      <td><a href="https://etherspot.io/">Etherspot</a></td>
+      <td>
+        MultiChain Smart Wallet SDK, soporta la mayoría de las cadenas compatibles con EVM.
+      </td>
+      <td>:page_facing_up:</td>
+    </tr>
   </tbody>
 </table>
+
+
 
 ---
 
@@ -315,7 +340,7 @@ A continuación se enumeran recursos que pueden ser utilizados en el ciclo de de
     <th>Modalidad</th>
   </tr>
   <tr>
-    <td><a href="https://remix.ethereum.org/">Remix</a>:star:</td>
+    <td><a href="https://remix.ethereum.org/">Remix</a> :star:</td>
     <td>IDE web con análisis estático incorporado, prueba blockchain VM.</td>
     <td>:page_facing_up:</td>
   </tr>
@@ -335,7 +360,7 @@ A continuación se enumeran recursos que pueden ser utilizados en el ciclo de de
     <td>:page_facing_up:</td>
   </tr>
   <tr>
-    <td><a href="https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity">Visual Studio Code</a>:star:</td>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity">Visual Studio Code</a> :star:</td>
     <td>Extensión de Visual Studio Code que agrega compatibilidad con Solidity.</td>
     <td>:page_facing_up:</td>
   </tr>
@@ -359,10 +384,7 @@ A continuación se enumeran recursos que pueden ser utilizados en el ciclo de de
     <td>IDE desarrollado por The Loom Network que le permite escribir, compilar y depurar su contrato inteligente. Fácil de compartir y encontrar fragmentos de código.</td>
     <td>:page_facing_up:</td>
   </tr>
-
 </table>
-
-
 
 ---
 <br>
@@ -375,7 +397,6 @@ Aprende a probar y depurar tus contratos inteligentes. Explora frameworks y herr
 
 **Tutoriales**
 
-
 <table>
   <thead>
     <tr>
@@ -387,7 +408,7 @@ Aprende a probar y depurar tus contratos inteligentes. Explora frameworks y herr
   <tbody>
     <tr>
       <td><a href="https://www.rareskills.io/post/foundry-testing-solidity">Foundry Unit Tests</a></td>
-      <td>Este artículo describirá cómo crear pruebas unitarias en Solidity usando Foundry. Cubriremos cómo probar todas las transiciones de estado que pueden ocurrir en un contrato inteligente, además de algunas características útiles adicionales que proporciona Foundry. </td>
+      <td>Este artículo describirá cómo crear pruebas unitarias en Solidity usando Foundry. Cubriremos cómo probar todas las transiciones de estado que pueden ocurrir en un contrato inteligente, además de algunas características útiles adicionales que proporciona Foundry.</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
@@ -397,12 +418,12 @@ Aprende a probar y depurar tus contratos inteligentes. Explora frameworks y herr
     </tr>
     <tr>
       <td><a href="https://www.youtube.com/watch?v=sMvqjUzH6Lw">Introducción a testing y seguridad de smart contracts con Foundry</a></td>
-      <td>Crearán su propio contrato para mintear NFTs, y ver paso a paso como Foundry permite ponerlo a prueba en busca de fallas de seguridad</td>
+      <td>Crearán su propio contrato para mintear NFTs y ver paso a paso cómo Foundry permite ponerlo a prueba en busca de fallas de seguridad.</td>
       <td>:camera:</td>
     </tr>
     <tr>
       <td><a href="https://www.youtube.com/watch?v=0hZ9-5pF8BY">Solidity Hardhat Unit Testing Tutorial by RareSkills</a></td>
-      <td>Tutorial de pruebas unitarias usando la herramienta Hardhat</td>
+      <td>Tutorial de pruebas unitarias usando la herramienta Hardhat.</td>
       <td>:camera:</td>
     </tr>
     <tr>
@@ -522,7 +543,7 @@ Se relaciona a continuación una lista de herramientas para el proceso de prueba
     </tr>
     <tr>
       <td><a href="https://book.getfoundry.sh/forge/tests">Foundry Test</a>:star:</td>
-      <td>Herramienta para hacer pruebas unitarias, ultra rapido y cuenta con varios trucos utiles para realizar las pruebas</td>
+      <td>Herramienta para hacer pruebas unitarias, ultra rápido y cuenta con varios trucos útiles para realizar las pruebas</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
@@ -532,7 +553,7 @@ Se relaciona a continuación una lista de herramientas para el proceso de prueba
     </tr>
     <tr>
       <td><a href="https://hardhat.org/tutorial/testing-contracts">Hardhat Test</a>:star:</td>
-      <td>Para probar nuestro contrato, vamos a utilizar Hardhat Network, una red local de Ethereum diseñada para el desarrollo. Viene integrado con Hardhat, y se utiliza como la red predeterminada. No necesita configurar nada para usarlo.</td>
+      <td>Para probar nuestro contrato, vamos a utilizar Hardhat Network, una red local de Ethereum diseñada para el desarrollo. Viene integrado con Hardhat y se utiliza como la red predeterminada. No necesita configurar nada para usarlo.</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
@@ -542,6 +563,7 @@ Se relaciona a continuación una lista de herramientas para el proceso de prueba
     </tr>
   </tbody>
 </table>
+
 
 ---
 
@@ -554,6 +576,8 @@ Aprende a interactuar con los contratos inteligentes desplegados en la blockchai
 <br>
 
 **Recursos Frontend**
+
+<br>
 
 <table>
   <thead>
@@ -584,7 +608,7 @@ Aprende a interactuar con los contratos inteligentes desplegados en la blockchai
       <td>una interfaz TypeScript para Ethereum que proporciona primitivas sin estado de bajo nivel para interactuar con Ethereum. Una alternativa a ethers.js y web3.js con un enfoque en la confiabilidad, la eficiencia y la excelente experiencia del desarrollador.</td>
       <td>:page_facing_up:</td>
     </tr>
-     <tr>
+    <tr>
       <td><a href="https://usedapp.io/">useDApp</a></td>
       <td>Marco basado en React para un desarrollo rápido de aplicaciones descentralizadas (DApp) en Ethereum</td>
       <td>:page_facing_up:</td>
@@ -669,7 +693,6 @@ Aprende a interactuar con los contratos inteligentes desplegados en la blockchai
       <td>Configuración de almacenamiento Redux lista para Ethereum y sin dependencias de marcos. Documentación</td>
       <td>:page_facing_up:</td>
     </tr>
-
   </tbody>
 </table>
 
@@ -689,92 +712,92 @@ Aprende a interactuar con los contratos inteligentes desplegados en la blockchai
   </thead>
   <tbody>
     <tr>
-      <td><a href="#">Web3.py</a></td>
+      <td><a href="https://github.com/ethereum/web3.py">Web3.py</a></td>
       <td>Python Web3</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">Web3.php</a></td>
+      <td><a href="https://github.com/sc0Vu/web3.php">Web3.php</a></td>
       <td>PHP Web3</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">Ethereum-php</a></td>
+      <td><a href="https://github.com/digitaldonkey/ethereum-php">Ethereum-php</a></td>
       <td>PHP Web3</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">Web3j</a></td>
+      <td><a href="https://github.com/web3j/web3j">Web3j</a></td>
       <td>Java Web3</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">Nethereum</a></td>
+      <td><a href="https://nethereum.com/">Nethereum</a></td>
       <td>.Net Web3</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">Ethereum.rb</a></td>
+      <td><a href="https://github.com/EthWorks/ethereum.rb">Ethereum.rb</a></td>
       <td>Ruby Web3</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">rust-web3</a></td>
+      <td><a href="https://github.com/tomusdrw/rust-web3">rust-web3</a></td>
       <td>Rust Web3</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">Web3.hs</a></td>
+      <td><a href="https://hackage.haskell.org/package/web3">Web3.hs</a></td>
       <td>Haskell Web3</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">KEthereum</a></td>
+      <td><a href="https://github.com/komputing/KEthereum">KEthereum</a></td>
       <td>Kotlin Web3</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">Moralis NodeJS SDK</a></td>
+      <td><a href="https://github.com/MoralisWeb3/Moralis-JS-SDK">Moralis NodeJS SDK</a></td>
       <td>NodeJS SDK que se integra con Moralis para indexar cadenas EVM</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">Moralis Python SDK</a></td>
+      <td><a href="https://github.com/MoralisWeb3/Moralis-Python-SDK">Moralis Python SDK</a></td>
       <td>Python SDK que se integra con Moralis para indexar cadenas EVM</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">Eventeum</a></td>
+      <td><a href="https://github.com/ConsenSys/eventeum">Eventeum</a></td>
       <td>Un puente entre eventos de contratos inteligentes de Ethereum y microservicios backend, escrito en Java por Kauri</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">Ethereumex</a></td>
+      <td><a href="https://github.com/mana-ethereum/ethereumex">Ethereumex</a></td>
       <td>Cliente Elixir JSON-RPC para la cadena de bloques Ethereum</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">Ethereum-jsonrpc-gateway</a></td>
+      <td><a href="https://github.com/HydroProtocol/ethereum-jsonrpc-gateway">Ethereum-jsonrpc-gateway</a></td>
       <td>Un gateway que permite ejecutar múltiples nodos Ethereum para fines de redundancia y equilibrio de carga. Puede ejecutarse como alternativa (o sobre) Infura. Escrito en Golang</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">EthContract</a></td>
+      <td><a href="https://github.com/AgileAlpha/eth_contract">EthContract</a></td>
       <td>Un conjunto de métodos auxiliares para ayudar a consultar contratos inteligentes ETH en Elixir</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">Marmo</a></td>
+      <td><a href="https://marmo.io/">Marmo</a></td>
       <td>SDK de Python, JS y Java para simplificar las interacciones con Ethereum. Utiliza relayers para transferir los costos de transacción a relayers</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">Ethereum Logging Framework</a></td>
+      <td><a href="https://bitbucket.csiro.au/users/kli039/repos/ethereum-logging-framework/browse">Ethereum Logging Framework</a></td>
       <td>Proporciona capacidades de registro avanzadas para aplicaciones y redes de Ethereum, incluyendo un lenguaje de consulta, un procesador de consultas y generación de código de registro</td>
       <td>:page_facing_up:</td>
     </tr>
     <tr>
-      <td><a href="#">Watchdata</a></td>
+      <td><a href="https://watchdata.io/">Watchdata</a></td>
       <td>Proporciona acceso simple y confiable a la API de Ethereum blockchain</td>
       <td>:page_facing_up:</td>
     <tr>

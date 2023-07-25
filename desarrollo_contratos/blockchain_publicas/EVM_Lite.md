@@ -1,17 +1,16 @@
 
 # **Ruta EVM Lite**
 
-La recomendación de la lectura de los capítulos del libro Mastering ethereum es una buena base para la comprensión de muchos de los conceptos que se usan en recursos que encontrara citados en esta ruta de aprendizaje. Entonces recomendamos no tomar un atajo en este camino y dedicar el tiempo necesario para comprender estos conceptos y luego continuar en su viaje de conocimiento en búsqueda de ser un desarrollador blockchain.
+La recomendación de leer los capítulos del libro Mastering Ethereum es una buena base para la comprensión de muchos de los conceptos que se usan en los recursos citados en esta ruta de aprendizaje. Por lo tanto, recomendamos no tomar atajos en este camino y dedicar el tiempo necesario para comprender estos conceptos y luego continuar en su viaje de conocimiento en búsqueda de ser un desarrollador blockchain.
 
 
 ## **Solidity**
 
-Familiarízate con el lenguaje de programación Solidity, utilizado para escribir contratos inteligentes en Ethereum. Aprende los conceptos fundamentales de Solidity, como tipos de datos, estructuras de control, funciones y eventos.
+Familiarizarse con el lenguaje de programación Solidity, utilizado para escribir contratos inteligentes en Ethereum. Aprende los conceptos fundamentales de Solidity, como tipos de datos, estructuras de control, funciones y eventos.
 
 Los siguientes recursos te ayudarán a obtener el conocimiento inicial que te permitirá ser productivo rápidamente. Estos recursos van directamente a aprender las particularidades del lenguaje Solidity.
 
 <br>
-
 <table>
   <thead>
     <tr>
@@ -50,7 +49,6 @@ Los siguientes recursos te ayudarán a obtener el conocimiento inicial que te pe
     </tr>
   </tbody>
 </table>
-
 ---
 
 <br>
@@ -107,7 +105,6 @@ También encontrara este mismo curso en español en el siguiente enlace.
 
 [Solidity, Blockchain y Smart Contracts - De Cero a Experto](https://www.youtube.com/watch?v=yN3zpI3sNAE&t=13775s)
 
-
 <table>
   <thead>
     <tr>
@@ -117,36 +114,35 @@ También encontrara este mismo curso en español en el siguiente enlace.
     </tr>
   </thead>
   <tbody>
-     <tr>
+    <tr>
       <td>
-        <a href="https://www.youtube.com/watch?v=umepbfKp5rI&t=5s"> Aprenda solidez, desarrollo de blockchain y contratos inteligentes | Desarrollado por AI - Curso completo (0 - 6)</a>
+        <a href="https://www.youtube.com/watch?v=umepbfKp5rI&t=5s">Aprenda Solidity, Desarrollo de Blockchain y Contratos Inteligentes | Desarrollado por AI - Curso completo (0 - 6)</a>
       </td>
       <td>
-     Este curso le dará una introducción completa a todos los conceptos básicos relacionados con blockchain, contratos inteligentes, Solidity, ERC20s, dapps Web3 de pila completa, finanzas descentralizadas (DeFi), Chainlink, Ethereum, contratos inteligentes actualizables, DAO, aave, IPFS y más.
+        Este curso le dará una introducción completa a todos los conceptos básicos relacionados con blockchain, contratos inteligentes, Solidity, ERC20s, dApps Web3 de pila completa, finanzas descentralizadas (DeFi), Chainlink, Ethereum, contratos inteligentes actualizables, DAO, Aave, IPFS y más.
       </td>
       <td>:camera:</td>
     </tr>
     <tr>
       <td>
-        <a href="https://www.youtube.com/watch?v=sas02qSFZ74"> Aprenda solidez, desarrollo de blockchain y contratos inteligentes | Desarrollado por AI - Curso completo (7 - 11)</a>
+        <a href="https://www.youtube.com/watch?v=sas02qSFZ74">Aprenda Solidity, Desarrollo de Blockchain y Contratos Inteligentes | Desarrollado por AI - Curso completo (7 - 11)</a>
       </td>
       <td>
-     Este curso le dará una introducción completa a todos los conceptos básicos relacionados con blockchain, contratos inteligentes, Solidity, ERC20s, dapps Web3 de pila completa, finanzas descentralizadas (DeFi), Chainlink, Ethereum, contratos inteligentes actualizables, DAO, aave, IPFS y más.
+        Este curso le dará una introducción completa a todos los conceptos básicos relacionados con blockchain, contratos inteligentes, Solidity, ERC20s, dApps Web3 de pila completa, finanzas descentralizadas (DeFi), Chainlink, Ethereum, contratos inteligentes actualizables, DAO, Aave, IPFS y más.
       </td>
       <td>:camera:</td>
     </tr>
-     <tr>
+    <tr>
       <td>
-        <a href="https://www.youtube.com/watch?v=wUjYK5gwNZs&t=4104s"> Aprenda solidez, desarrollo de blockchain y contratos inteligentes | Desarrollado por AI - Curso completo (12 - 15)</a>
+        <a href="https://www.youtube.com/watch?v=wUjYK5gwNZs&t=4104s">Aprenda Solidity, Desarrollo de Blockchain y Contratos Inteligentes | Desarrollado por AI - Curso completo (12 - 15)</a>
       </td>
       <td>
-     Este curso le dará una introducción completa a todos los conceptos básicos relacionados con blockchain, contratos inteligentes, Solidity, ERC20s, dapps Web3 de pila completa, finanzas descentralizadas (DeFi), Chainlink, Ethereum, contratos inteligentes actualizables, DAO, aave, IPFS y más.
+        Este curso le dará una introducción completa a todos los conceptos básicos relacionados con blockchain, contratos inteligentes, Solidity, ERC20s, dApps Web3 de pila completa, finanzas descentralizadas (DeFi), Chainlink, Ethereum, contratos inteligentes actualizables, DAO, Aave, IPFS y más.
       </td>
       <td>:camera:</td>
     </tr>
   </tbody>
 </table>
-
 ---
 <br>
 
