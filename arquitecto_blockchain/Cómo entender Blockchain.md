@@ -4,15 +4,12 @@ Blockchain es una arquitectura tecnológica enfocada en superar los riegos y las
 ## **Breve historia de la confianza y las divisas** 
 Las divisas, los intercambios y las transacciones han existido por miles de años, mucho antes de que fueran reguladas por autoridades centrales, como los bancos. Una economía primitiva se basaba en dos componentes fundamentales, un objeto común mutuamente aceptado como divisa (Figura 1.1) y un fondo común entre aquellos participantes en transacciones basadas en esta divisa (Figura 1.2). 
 
-![Interfaz de usuario gráfica, Aplicación
 
-Descripción generada automáticamente](./imagenes/Aspose.Words.c4218144-abbb-4eab-a03e-8d178265976f.001.png) 
-
+![](./imagenes/Aspose.Words.c4218144-abbb-4eab-a03e-8d178265976f.001.png) 
 Figura 1.1 – Las unidades de divisas se convirtieron en la base de las economías. 
 
-![Interfaz de usuario gráfica
 
-Descripción generada automáticamente con confianza media](./imagenes/Aspose.Words.c4218144-abbb-4eab-a03e-8d178265976f.002.png) 
+![](./imagenes/Aspose.Words.c4218144-abbb-4eab-a03e-8d178265976f.002.png) 
 
 Figura 1.2 – Las unidades de divisas permitieron las transacciones más allá del trueque. 
 
