@@ -100,4 +100,4 @@ Las blockchains permisionadas son especialmente adecuadas para casos de uso en l
 
 <br>
 
-:arrow_backward: [Regresar](../../desarrollo_contratos/blockchain_publicas/EVM.md)
+:arrow_backward: [Regresar](../../desarrollo_contratos/desarrollo_contratos.md)
