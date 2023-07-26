@@ -68,4 +68,6 @@ Una de las ventajas clave de trabajar en redes permisionadas es la capacidad de 
 
 Para trabajar en redes permisionadas, es importante familiarizarse con los protocolos y frameworks utilizados, como Hyperledger Fabric, Corda o Quorum. Estas tecnologías proporcionan herramientas y bibliotecas específicas que facilitan el desarrollo de aplicaciones blockchain en entornos permisionados.
 
+Podra profundizar en este tipo de redes [aqui](./blockchain_permisionadas/Blockchain_permisionadas.md)
+
 
