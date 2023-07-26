@@ -1,19 +1,19 @@
 ﻿## **Aplicación de Blockchain** 
 Una *aplicación de blockchain* consiste en el programa de la aplicación y el libro mayor distribuido, que contiene al blockchain (Figura 1.19).  
 
-![](Aspose.Words.44825fc3-f5b9-42f6-881d-8858ae44005c.001.png) 
+![](./imagenes/Aspose.Words.44825fc3-f5b9-42f6-881d-8858ae44005c.001.png) 
 
 Figura 1.19 – Una aplicación de blockchain abarca al libro mayor distribuido. 
 
 Una característica que define la arquitectura de una aplicación de blockchain es que por naturaleza es descentralizada, lo que resulta en que tanto el programa de la aplicación como el libro mayor distribuido son instalados de manera redundante en cada estación de trabajo del participante de la aplicación (Figura 1.20). 
 
-![](Aspose.Words.44825fc3-f5b9-42f6-881d-8858ae44005c.002.png)
+![](./imagenes/Aspose.Words.44825fc3-f5b9-42f6-881d-8858ae44005c.002.png)
 
 Figura 1.20 – Cada usuario de la aplicación tiene su propia implementación redundante de toda la aplicación de blockchain, incluyendo el libro mayor distribuido. 
 ## **Red de blockchain**  
 Una *red de blockchain* es un marco de comunicaciones que permite que los participantes de la aplicación de blockchain se comuniquen entre sí (Figura 1.21).  
 
-![](Aspose.Words.44825fc3-f5b9-42f6-881d-8858ae44005c.003.png)
+![](./imagenes/Aspose.Words.44825fc3-f5b9-42f6-881d-8858ae44005c.003.png)
 
 Figura 1.21 – Usuarios de la aplicación de blockchain se conectan a la red de blockchain. 
 
@@ -27,13 +27,13 @@ Figura 1.22 – Los participantes de la aplicación de blockchain establecen una
 
 Una red de blockchain generalmente se conoce como *red superpuesta*, porque generalmente se encuentra en la parte superior de una red TCP/IP que puede extenderse más allá del alcance de la aplicación de blockchain (Figura 1.23). Dentro de la red superpuesta de blockchain, se usan protocolos de comunicación adicionales para llevar a cabo la actividad de blockchain. Tan pronto como se hace un intento de comunicación con un nodo mediante el protocolo de red de blockchain, se invoca a la red superpuesta. 
 
-![](Aspose.Words.44825fc3-f5b9-42f6-881d-8858ae44005c.005.png)
+![](./imagenes/Aspose.Words.44825fc3-f5b9-42f6-881d-8858ae44005c.005.png)
 
 Figura 1.24 – En un modelo de base de datos centralizado (izquierda), se requiere a cada usuario acceder a la base de datos central de manera individual. El libro mayor distribuido de blockchain se basa en un modelo de base de datos descentralizado (derecha), en el que cada usuario tiene una copia individual de la base de datos de la aplicación que se sincroniza con las copias de la base de datos de los otros usuarios. 
 
 Con un libro mayor distribuido, cada usuario participante (o nodo) guarda una copia idéntica del libro mayor (base de datos) en la red en la que se sincronizan todas las réplicas del libro mayor (Figura 1.25). Esto se lleva a cabo con el mecanismo replicador del libro mayor.
 
-![](Aspose.Words.44825fc3-f5b9-42f6-881d-8858ae44005c.006.png)
+![](./imagenes/Aspose.Words.44825fc3-f5b9-42f6-881d-8858ae44005c.006.png)
 
 Figura 1.25 – El libro mayor distribuido se sincroniza entre todos los usuarios participantes de la aplicación. 
 
