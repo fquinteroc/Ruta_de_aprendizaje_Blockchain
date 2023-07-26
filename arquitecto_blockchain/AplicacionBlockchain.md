@@ -19,9 +19,7 @@ Figura 1.21 – Usuarios de la aplicación de blockchain se conectan a la red de
 
 Los participantes de la aplicación de blockchain generalmente usan la red para conectarse usando TCP/IP, a través del cual cada uno contacta al otro mediante su dirección IP. Como se explica en la sección subsiguiente *Nodos*, los usuarios de una red se conocen y son representados como nodos (Figura 1.22). 
 
-![Imagen que contiene Diagrama
-
-Descripción generada automáticamente](Aspose.Words.44825fc3-f5b9-42f6-881d-8858ae44005c.004.png)
+![](./imagenes/Aspose.Words.44825fc3-f5b9-42f6-881d-8858ae44005c.004.png)
 
 Figura 1.22 – Los participantes de la aplicación de blockchain establecen una conexión con la red usando el protocolo TCP/IP estándar. 
 
