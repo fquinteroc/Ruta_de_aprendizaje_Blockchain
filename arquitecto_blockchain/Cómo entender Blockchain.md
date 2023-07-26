@@ -20,7 +20,7 @@ A medida que el comercio global creció y los países comenzaron a participar en
 
 Las autoridades centrales se convirtieron en un lugar común como miembros fundamentales de casi cualquier comunidad. Su papel principal era regular las divisas (Figura 1.3). 
 
-![](Aspose.Words.c4218144-abbb-4eab-a03e-8d178265976f.003.png) 
+![](./imagenes/Aspose.Words.c4218144-abbb-4eab-a03e-8d178265976f.003.png) 
 
 Figura 1.3 – Los bancos se establecieron a sí mismos como autoridades centrales para almacenar, emitir y regular unidades de divisas. 
 
