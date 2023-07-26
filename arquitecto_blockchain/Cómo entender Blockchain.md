@@ -6,13 +6,13 @@ Las divisas, los intercambios y las transacciones han existido por miles de año
 
 ![Interfaz de usuario gráfica, Aplicación
 
-Descripción generada automáticamente](Aspose.Words.c4218144-abbb-4eab-a03e-8d178265976f.001.png) 
+Descripción generada automáticamente](./imagenes/Aspose.Words.c4218144-abbb-4eab-a03e-8d178265976f.001.png) 
 
 Figura 1.1 – Las unidades de divisas se convirtieron en la base de las economías. 
 
 ![Interfaz de usuario gráfica
 
-Descripción generada automáticamente con confianza media](Aspose.Words.c4218144-abbb-4eab-a03e-8d178265976f.002.png) 
+Descripción generada automáticamente con confianza media](./imagenes/Aspose.Words.c4218144-abbb-4eab-a03e-8d178265976f.002.png) 
 
 Figura 1.2 – Las unidades de divisas permitieron las transacciones más allá del trueque. 
 
