@@ -9,23 +9,19 @@ Esta sección aclara el propósito y el alcance funcional de una aplicación de 
 - Permitir múltiples copias grabables de una base de datos distribuida para que existan al mismo tiempo. 
 - Escalar el número de las copias de la base de datos distribuida en la medida de lo posible. Las figuras 1.7 a la 1.9 ilustran la relación única entre una aplicación de blockchain y sus usuarios. 
 
-![Diagrama
-
-Descripción generada automáticamente](Aspose.Words.acd90895-c749-4918-a064-bb2abe49465f.001.png)
+![](./imagenes/Aspose.Words.acd90895-c749-4918-a064-bb2abe49465f.001.png)
 
 
 
 Figura 1.7 – Con una aplicación de blockchain, los datos no son gobernados y accedidos por una sola autoridad central, sino que pueden estar disponibles para todos los usuarios de la aplicación participantes. 
 
-![Diagrama
-
-Descripción generada automáticamente](Aspose.Words.acd90895-c749-4918-a064-bb2abe49465f.002.png)
+![](./imagenes/Aspose.Words.acd90895-c749-4918-a064-bb2abe49465f.002.png)
 
 Figura 1.8 – En una arquitectura de aplicación típica, el programa y los datos de la aplicación están centralizados, requiriendo a todos los usuarios acceder de manera centralizada a la aplicación y sus datos. 
 
 
 
-![](Aspose.Words.acd90895-c749-4918-a064-bb2abe49465f.003.png)
+![](./imagenes/Aspose.Words.acd90895-c749-4918-a064-bb2abe49465f.003.png)
 
 Figura 1.9 – En una arquitectura de aplicación blockchain, normalmente no hay un programa de aplicación ni base de datos central. En su lugar, cada usuario de la aplicación participante instala una copia de la aplicación y su base de datos (libro mayor) en su propia estación de trabajo local. Todos los usuarios participantes se conectan a la misma red para comunicarse e interactuar. 
 ### Qué no puede hacer una aplicación de Blockchain 
@@ -37,9 +33,7 @@ Las figuras 1.10 y 1.11 resaltan algunas de las características de las aplicaci
 
 
 
-![Imagen que contiene Interfaz de usuario gráfica
-
-Descripción generada automáticamente](Aspose.Words.acd90895-c749-4918-a064-bb2abe49465f.004.png)
+![](./imagenes/Aspose.Words.acd90895-c749-4918-a064-bb2abe49465f.004.png)
 
 Figura 1.10 – Mientras que crear, leer, escribir y actualizar son funciones comunes con las aplicaciones de negocio, tal funcionalidad no es bien soportada en una aplicación de blockchain típica. La base de datos (libro mayor) que forma parte de una aplicación de blockchain además es incapaz de soportar tablas que tienen relaciones entre sí, como lo hace una base de datos relacional. 
 
