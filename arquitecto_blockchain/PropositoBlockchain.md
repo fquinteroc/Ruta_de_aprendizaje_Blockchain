@@ -105,4 +105,4 @@ Antes de hacer una exploración sobre cómo trabaja blockchain, aquí se ofrecen
 
 <br>
 
-:arrow_backward: [Regresar](../../arquitecto_blockchain/arquitecto_blockchain.md)
+:arrow_backward: [Regresar](../arquitecto_blockchain/arquitecto_blockchain.md)
