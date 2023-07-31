@@ -103,3 +103,6 @@ Antes de hacer una exploración sobre cómo trabaja blockchain, aquí se ofrecen
 - *Escalabilidad* – algunos diseños de blockchain pueden poner restricciones en la validación y creación de bloques, inhibiendo así la escalabilidad total del sistema. 
 - *Actividad ilegal* – puesto que un sistema de blockchain puede evitar la necesidad de una autoridad central, puede ser más susceptible a sufrir abusos para propósitos ilegales. 
 
+<br>
+
+:arrow_backward: [Regresar](../../arquitecto_blockchain/arquitecto_blockchain.md)
