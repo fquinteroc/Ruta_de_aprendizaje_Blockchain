@@ -55,3 +55,5 @@ Un *usuario* es típicamente una persona que posee o usa una aplicación de bloc
 Por ejemplo, si una persona usa un sistema de pago de blockchain ofrecido por la Compañía A para hacer una transacción, puede ser considerado un usuario y un consumidor. Si, para completar la transacción, la Compañía A requiere la participación de un servicio de pasarela de pagos de un tercero (tal vez para convertir diferentes monedas), entonces la pasarela de pagos podría ser considerada solo como un consumidor. 
 
 Un usuario activo (o consumidor) es un participante que está activo actualmente en una red de blockchain. Por ejemplo, un usuario puede instalar y participar en una aplicación de blockchain mediante su estación de trabajo. Esto hace del usuario un usuario activo. Sin embargo, si el usuario se aleja por un tiempo durante el cual la estación de trabajo se apaga, el usuario no es considerado como participante activo hasta que vuelve a unirse a la red de blockchain y sincroniza su estación de trabajo.
+
+:arrow_backward: [Regresar](../arquitecto_blockchain/arquitecto_blockchain.md)
