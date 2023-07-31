@@ -507,6 +507,13 @@ El lenguaje de programación de contratos inteligentes más usado
       <td>:books:</td>
     </tr>
     <tr>
+      <td><a href="https://youtu.be/yN3zpI3sNAE">Curso en español de Blockchain y Solidity</a></td>
+      <td>
+       Solidity, Blockchain y Smart Contracts - De Cero a Experto
+      </td>
+      <td>:books:</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://docs.soliditylang.org/en/latest/">Solidity</a>
       </td>
