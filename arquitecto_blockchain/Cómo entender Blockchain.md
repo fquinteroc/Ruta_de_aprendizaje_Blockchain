@@ -27,4 +27,4 @@ Durante la crisis financiera global, muchos perdieron la confianza en los bancos
 
 Bitcoin estaba basado en una “cadena de bloques” criptográficamente seguros, conocido como un *blockchain* (N. del T. literalmente, cadena de bloques en español). 
 
-
+:arrow_backward: [Regresar](../arquitecto_blockchain/arquitecto_blockchain.md)
