@@ -23,24 +23,14 @@ En cada uno de los bloques se guarda información, esta información reside en u
 
 [Blockchain Explorer - Bitcoin Tracker & More | Blockchain.com](https://www.blockchain.com/es/explorer) Es un explorador para visualizar los bloque de información que se van almacenando de bitcoin. Los últimos bloques son los que se van juntando ultimamente.
 
-# **[Historia de Blockchain](https://academy.binance.com/es/articles/history-of-blockchain)**
-
-La tecnología subyacente detrás de las criptomonedas es la cadena de bloques, esta tecnología se describió en 1991, cuando los científicos de investigación Stuart Haber y W. Scott Stornetta introdujeron una solución computacionalmente práctica para los documentos digitales con sello de tiempo para que no pudieran ser modificados o manipulados.
-
-En 1992 se incorporaron al diseño los árboles Merkle, lo que lo hizo más eficiente al permitir que varios documentos se reunieran en un solo bloque.
-
-En 2004, el informático y activista criptográfico Hal Finney (Harold Thomas Finney II) introdujo un sistema llamado RPoW, Reusable Proof Of Work (Prueba de Trabajo reutilizable).
-
-A finales de 2008, una persona o un grupo con el seudónimo Satoshi Nakamoto publicó en una lista de correo de criptografía un libro blanco que introdujo un sistema de efectivo electrónico descentralizado entre pares (llamado Bitcoin). El 3 de enero de 2009, Bitcoin nació cuando el primer bloque de bitcoin fue minado por Satoshi Nakamoto, que tuvo una recompensa de 50 bitcoins.
-
-En 2013, Vitalik Buterin, programador y cofundador de la revista Bitcoin, comenzó el desarrollo de una nueva plataforma de computación distribuida basada en blockchain, Ethereum, que presentaba una funcionalidad de scripting, llamada contratos inteligentes.
-
-
-# **[Casos de Uso]()**
-
-- **Certificaciones como títulos académicos:** Un estudiante al graduarse recibe un título universitario, este título deberá presentarlo en su vida profesional, blockchain se puede adaptar porque los certificados se almacenan en un servidor, pero si el servidor falla, nuestras acreditaciones académicas se pueden perder. Blockchain lo que hace es que los certificados se almacenarían en la cadena de bloques, haciendo que tengamos un sistema distribuido, de esta forma el estudiante puede almacenar su certificado y este se va a replicar por todos los nodos del mundo, pero siempre podremos tener esa información.
-- **Votaciones:** Cuando hay una votación electoral, se tiene un votante y estos votos son papeles que al final hay que confiar que en ningun momento se destruyan o se pierdan, hay que confiar en un tercero. Blockchain permite que el votante introduzca su voto en la cadena y se le asigna a una dirección A que lo va a identificar de manera anónima pero nunca se sabrá quien estaba detrás, sería de forma anónima. Al final se acaparan todos los votos y se podrán contabilizar.
-- **Notarios:** La autenticación de documentos en notarías. Los notarios tienen la autoridad de dar fé de los actos públicos realizados ante él, redacta y autentica documentos, escrituras, contratos. Estos documentos tienen un costo económico por el trabajo del notario. Los smart contract permiten hacer de notario de forma digital, estos documentos se almacenan dentro de la cadena de bloques y se disminuiría el precio que se gana por la realización de documentos.
+# **[¿Cómo funciona Blockchain](https://academy.bit2me.com/como-funciona-blockchain-cadena-de-bloques/)**
+En esta sección aprenderás:
+- ¿Cómo funciona la tecnología Blockchain?
+- ¿Cómo se construye una Blockchain?
+	- Bloques
+	- Mineros
+	- Nodos
+- Utilidad de la tecnología de cadena de bloques
 
 # **[Tipos de Blockchain](https://github.com/joaneeet7/Bootcamp/blob/main/02-Introducci%C3%B3n%20a%20la%20Tecnolog%C3%ADa%20Blockchain/Tipos%20Blockchain.pdf)**
 
