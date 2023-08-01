@@ -1,4 +1,4 @@
-# **Rutas de concimiento - Experto en seguridad de Web 3.0**
+# **Rutas de conocimiento - Experto en seguridad de Web 3.0**
 
 <br>
 
