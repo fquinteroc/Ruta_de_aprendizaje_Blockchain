@@ -12,85 +12,17 @@ Videos: :camera:
 Notebooks: :blue_book:
 
 Tour guiado: :dart:
-<table>
-  <thead>
-    <tr>
-      <th>Modulo</th>
-      <th>Lección</th>
-      <th>Descripción</th>
-      <th>Fuente</th>
-      <th>Modalidad</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>01 - Conocimiento general de Blockchain</td>
-      <td>1. Criptografía</td>
-      <td>Información general</td>
-      <td>[Criptografía](#información-general)
-      </td>
-      <td>Lectura</td>
-    </tr>
-    <tr>
-      <td>01 - Conocimiento general de Blockchain</td>
-      <td>1. Criptografía</td>
-      <td>[Funciones hash](#funciones-hash)</td>
-      <td> Lectura
-      </td>
-      <td>:page_facing_up:</td>
-    </tr>
-    </tr>
-    <tr>
-      <td>01 - Conocimiento general de Blockchain</td>
-      <td>1. Criptografía</td>
-      <td>[Cifrado: simétrico y asimétrico](#cifrado)</td>
-      <td>Lectura</td>
-      <td>:page_facing_up:</td>
-    </tr>
-    <tr>
-      <td>01 - Conocimiento general de Blockchain</td>
-      <td>1. Criptografía</td>
-      <td>Firmas digitales</td>
-      <td>Ejercicios</td>
-      <td>:page_facing_up:</td>
-    </tr>
-    <tr>
-      <td>01 - Conocimiento general de Blockchain</td>
-      <td>1. Criptografía</td>
-      <td>[Serie de rompecabezas que enseñan pequeñas lecciones](#pequeñas-lecciones) </td>
-      <td>Lectura</td>
-      <td>:page_facing_up:</td>
-    </tr>
-    <tr>
-      <td>01 - Conocimiento general de Blockchain</td>
-      <td>2. Estructura de Datos</td>
-      <td>[Árboles de Merkle](#arboles-de-merkle)</td>
-      <td>Lectura</td>
-      <td>:page_facing_up:</td>
-    </tr>
-    <tr>
-      <td>01 - Conocimiento general de Blockchain</td>
-      <td>3. Bloques</td>
-      <td>[Cadena de bloques](#bloques)</td>
-      <td>Lectura</td>
-      <td>:page_facing_up:</td>
-    </tr>
-    <tr>
-      <td>01 - Conocimiento general de Blockchain</td>
-      <td>4. Nodos</td>
-      <td>[¿Qué son los nodos blockchain y cómo funcionan?](#nodos)</td>
-      <td>Lectura</td>
-      <td>:page_facing_up:</td>
-    </tr>
-    <tr>
-      <td>01 - Conocimiento general de Blockchain</td>
-      <td>5. Mineria</td>
-      <td>[Información General](#mineria)</td>
-      <td>Lectura</td>
-      <td>:page_facing_up:</td>
-    </tr>
-  </tbody>
-</table>
+| Modulo | Lección | Descripción | Fuente | Modalidad |
+| --- | --- | --- | --- | --- |
+| [01 - Conocimiento general de Blockchain](#información-general) | 1. Criptografía | Información general | Estrategía e Innovación de TI & Bancolombia | Lectura |
+| [01 - Conocimiento general de Blockchain](#funciones-hash) | 1. Criptografía | [Funciones hash](#funciones-hash) | Estrategía e Innovación de TI & Bancolombia | Lectura :page_facing_up: |
+| [01 - Conocimiento general de Blockchain](#cifrado) | 1. Criptografía | [Cifrado: simétrico y asimétrico](#cifrado) | Estrategía e Innovación de TI & Bancolombia | Lectura :page_facing_up: |
+| [01 - Conocimiento general de Blockchain](#firmas-digitales) | 1. Criptografía | Firmas digitales | Ejercicios | Ejercicios :dart: |
+| [01 - Conocimiento general de Blockchain](#pequeñas-lecciones) | 1. Criptografía | [Serie de rompecabezas que enseñan pequeñas lecciones](#pequeñas-lecciones) | Bit2me | Tour guiado :dart: |
+| [01 - Conocimiento general de Blockchain](#arboles-de-merkle) | 2. Estructura de Datos | [Árboles de Merkle](#arboles-de-merkle) | Estrategía e Innovación de TI & Bancolombia | Lectura :page_facing_up: |
+| [01 - Conocimiento general de Blockchain](#bloques) | 3. Bloques | [Cadena de bloques](#bloques) | Lectura | Lectura :dart: |
+| [01 - Conocimiento general de Blockchain](#nodos) | 4. Nodos | [¿Qué son los nodos blockchain y cómo funcionan?](#nodos) | Lectura | Lectura :dart: |
+| [01 - Conocimiento general de Blockchain](#mineria) | 5. Mineria | [Información General](#mineria) | Lectura | Lectura :dart: |
 
 # **Criptografía**
 
