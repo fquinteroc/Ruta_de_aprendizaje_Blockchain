@@ -37,7 +37,7 @@ Entonces, ¿estás listo para embarcarte en esta emocionante aventura de conocim
 ## [Historia y Evolución de Blockchain :page_facing_up:](./linea_tiempo.md)
 
 
-- **Descripción:** Exploraremos el origen de blockchain y su evolución a lo largo del tiempo. Este módulo te proporcionará una comprensión más profunda de cómo se ha desarrollado esta tecnología y cómo ha influido en el mundo digital.
+- **Descripción:** Exploraremos el origen de blockchain y su evolución a lo largo del tiempo. Este módulo te proporcionará una comprensión más profunda de cómo se ha desarrollado esta tecnología y cómo ha influido en el mundo digital. Así mismo, te invitamos a conocer un artículo acerca de la historia del blockchain realizado desde el area de Estrategia e Innovación de TI [Aquí](https://bancolombia.sharepoint.com.mcas.ms/sites/co-vsti/SitePages/noticias_un-poco-de-historia-del-blockchain-y-criptografia.aspx).
 
 - **Idioma:** Español
 - **Contenido:**
@@ -63,7 +63,16 @@ Entonces, ¿estás listo para embarcarte en esta emocionante aventura de conocim
 # **Algoritmos de Consenso**
 ## [Consenso :page_facing_up:](./conocimiento_general.md)
 
-- **Descripción:** En este módulo, nos adentraremos en los algoritmos de consenso: prueba de trabajo (PoW) y prueba de participación (PoS). Conocerás cómo funcionan estos algoritmos y por qué son cruciales para la operación y seguridad de las redes blockchain.
+ **Descripción:** En este módulo, nos adentraremos en los algoritmos de consenso. Conocerás cómo funcionan estos algoritmos y por qué son cruciales para la operación y seguridad de las redes blockchain. Haz click en cada una de ellas para que conozcas sus detalles:
+- [Cómo entender el concenso](https://bancolombia.sharepoint.com.mcas.ms/sites/co-vsti/SitePages/noticias_como-entender-el-consenso.aspx)
+- [prueba de trabajo (PoW).](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)
+- [Prueba de participación (PoS).](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
+- [Prueba de participación delegada.](https://crypto.com/university/what-is-dpos-delegated-proof-of-stake)
+- [Prueba de capacidad.](https://www.investopedia.com/terms/p/proof-capacity-cryptocurrency.asp)
+- [Prueba de tiempo transcurrido.](https://www.investopedia.com/terms/p/proof-elapsed-time-cryptocurrency.asp)
+- [Prueba de identidad.](https://en.wikipedia.org/wiki/Proof_of_identity_(blockchain_consensus))
+- [Prueba de autoridad.](https://www.coindesk.com/learn/what-is-proof-of-authority/)
+- [Prueba de actividad.](https://www.investopedia.com/terms/p/proof-activity-cryptocurrency.asp)
 
 
 # **Bitcoin**
@@ -132,5 +141,13 @@ Entonces, ¿estás listo para embarcarte en esta emocionante aventura de conocim
 
 # **Casos de Uso Blockchain**
 
-- **Descripción:** ¿Sabías que blockchain tiene aplicaciones más allá de las criptomonedas? En este módulo, exploraremos algunos de los casos de uso más destacados de blockchain, como contratos inteligentes, registro de activos, cadena de suministro, entre otros. Verás cómo esta tecnología está revolucionando diferentes industrias.
-
+- **Descripción:** ¿Sabías que blockchain tiene aplicaciones más allá de las criptomonedas? En este módulo, exploraremos algunos de los casos de uso más destacados de blockchain, como contratos inteligentes, registro de activos, cadena de suministro, entre otros. Verás cómo esta tecnología está revolucionando diferentes industrias [aquí](https://news.bit2me.com/principales-casos-de-uso-de-blockchain/). Adicional a esto, conocerás investigaciones que hemos realizado dentro de la organización.
+- **Plataforma:** Estrategia e Innovación TI
+    - **Idioma:** Español
+    - **Contenido:**
+        - Bitcoin, criptomonedas y tokenización de activos
+        - Medicina y farmacéutica
+        - Finanzas descentralizadas
+        - Logística y la cadena de suministros
+        - Verificación de credenciales
+        - [Algorand](https://bancolombia.sharepoint.com.mcas.ms/sites/co-vsti/SitePages/noticias_algogrand-la-plataforma-blockchain-que-esta-transformando-las-transacciones-digitales.aspx)
