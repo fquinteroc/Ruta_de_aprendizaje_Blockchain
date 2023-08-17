@@ -29,7 +29,7 @@ Las rutas que encontrará acontinuación va desde desarrolladores de contratos i
 
 proporciona una introducción fundamental a esta tecnología revolucionaria. Aquí exploramos los conceptos básicos de blockchain, incluyendo su definición, cómo funciona y por qué es importante. Además, examinamos los componentes clave de una red blockchain, como los bloques, las transacciones y los consensos. También exploramos temas como la seguridad y la privacidad en blockchain, así como los casos de uso y las aplicaciones potenciales en diversos sectores. Esta sección es un punto de partida esencial para aquellos que deseen adquirir una comprensión sólida de los fundamentos de blockchain y su potencial disruptivo en el mundo actual.
 
-* Puede accerder a la información haciendo click [aqui](./conocimiento_general/README.md)
+* Puede accerder a la información haciendo click [aquí](./conocimiento_general/README.md)
 
 <br>
 
@@ -41,7 +41,7 @@ proporciona una introducción fundamental a esta tecnología revolucionaria. Aqu
 #### Desarrollador de contratos inteligentes:
 Es responsable de diseñar, desarrollar y mantener los contratos inteligentes en la plataforma blockchain. Esto implica programar la lógica de negocio y la funcionalidad de los contratos inteligentes utilizando lenguajes de programación específicos de la blockchain.
 
-* Puedes acceder a la ruta de conocimiento para _Desarrollador de contratos inteligentes_ haciendo click [aqui](./desarrollo_contratos/desarrollo_contratos.md).
+* Puedes acceder a la ruta de conocimiento para _Desarrollador de contratos inteligentes_ haciendo click [aquí](./desarrollo_contratos/desarrollo_contratos.md).
 
 
 <br>
@@ -49,7 +49,7 @@ Es responsable de diseñar, desarrollar y mantener los contratos inteligentes en
 #### Experto en seguridad de blockchain:
 Se ocupa de garantizar la seguridad de la red blockchain, identificando y mitigando posibles vulnerabilidades y ataques. Esto incluye la implementación de medidas de seguridad, como el cifrado de datos y la gestión de claves criptográficas.
 
-* Puedes acceder a la ruta de conocimiento para _Experto en seguridad de blockchain_ haciendo click [aqui](./seguridad_blockchain/seguridad_blockchain.md).
+* Puedes acceder a la ruta de conocimiento para _Experto en seguridad de blockchain_ haciendo click [aquí](./seguridad_blockchain/seguridad_blockchain.md).
 
 
 <br>
@@ -57,9 +57,17 @@ Se ocupa de garantizar la seguridad de la red blockchain, identificando y mitiga
 #### Arquitecto blockchain:
 Diseña la arquitectura general de la red blockchain, incluyendo la selección de la plataforma blockchain adecuada, la configuración de los nodos y la estructura de consenso. También se encarga de definir las políticas de seguridad y privacidad de la red.
 
-* Puedes acceder a la ruta de conocimiento para _Arquitecto blockchain_ haciendo click [aqui](./arquitecto_blockchain/arquitecto_blockchain.md).
+* Puedes acceder a la ruta de conocimiento para _Arquitecto blockchain_ haciendo click [aquí](./arquitecto_blockchain/arquitecto_blockchain.md).
 
 <br>
+
+#### Líder Blockchain:
+Un líder técnico en el campo de la tecnología blockchain desempeña un papel crucial en el diseño, desarrollo y gestión de proyectos relacionados con blockchain. Su función principal es guiar al equipo de desarrollo técnico en la implementación exitosa de soluciones basadas en esta tecnología. Algunas de sosn responsabilidades son: participar en el diseño de la arquitectura de la solución blockchain, supervisa el proceso de desarrollo, toma decisiones clave relacionadas con las tecnologías y herramientas a utilizar en el proyecto y estar al tanto de las últimas tendencias, avances y novedades.
+
+* Puedes acceder a la ruta de conocimeinto para _Líder Blockchain_ haciendo clic [aquí](./lider_blockchain/README.md).
+
+<br>
+
 
 ## **Glosario**
 
