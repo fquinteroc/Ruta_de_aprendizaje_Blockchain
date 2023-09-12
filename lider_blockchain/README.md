@@ -19,7 +19,7 @@ Blockchain ha evolucionado de ser simplemente la base de las criptomonedas a con
 | [03 - Selección de red blockchain de acuerdo al caso de uso](#selección-de-red-blockchain-de-acuerdo-al-caso-de-uso) | Exploraremos las diferencias entre los tipos de blockchain, los factores a considerar a la hora de escoger un tipo de red para diferentes casos de uso y cómo evaluar cada tipo de red | Estrategia e Innovación TI | Lectura :page_facing_up: |
 | [04 - Transformación digital](#transformación-digital) | Exploraremos la integración de la tecnología con otras como IA, IoT o big data, uso de blockchain en la transformación digital y algunas asociaciones y colaboraciones para promover la adopción de blockchain | Estrategia e Innovación TI | Lectura :page_facing_up: |
 
-# **[Fundamentos de Blockchain]()**
+# **[Fundamentos de Blockchain](https://bancolombia.sharepoint.com/:p:/s/ArquitecturaEmpresarialEmergente/EeiExzcCH8xCqjoahp90t9sBZswTNIhoA9OTeO1o_Y7b5A?e=6LikA0)**
 - **Descripción:** En un mundo donde la velociadad y seguridad digital cada día cobra más valor, Blockchain se ha convertido en una disciplina escencial gracias a su distribución descentralizada de la información. En esta lectura exploraremos los conceptos clave y como se conectan.
 - **Duración:** 1 hora
 - **Idioma:** Español
