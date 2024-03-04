@@ -1,6 +1,6 @@
 # Información General
 
-Este el punto de partida perfecto para adentrarse en el fascinante mundo de la tecnología blockchain. Aquí exploraremos los conceptos fundamentales, los principios clave y las características básicas que definen a esta innovadora tecnología.
+Este es el punto de partida perfecto para adentrarse en el fascinante mundo de la tecnología blockchain. Aquí exploraremos los conceptos fundamentales, los principios clave y las características básicas que definen a esta innovadora tecnología.
 
 En esta sección, obtendrás una comprensión sólida de qué es blockchain, cómo funciona y por qué ha generado un impacto revolucionario en diversos sectores. Exploraremos las diferencias entre blockchain público, privado y permisionado, así como los casos de uso y las ventajas que cada uno de ellos ofrece.
 
@@ -10,7 +10,7 @@ No importa tu nivel de conocimiento previo sobre blockchain, esta sección está
 
 <br>
 
-En esta sección aprenderás y produndizarás en temas como: criptografía, estructura de datos, nodos, bloques y minería. Estos conceptos son claves, ya que son la base en la que está conformada esta tecnología, verás como se conecta uno a uno de los conceptos y al final de la sección podrás describir con mayor detalle la teoría detras del Blockchain.
+En esta sección aprenderás y produndizarás en temas como: criptografía, estructura de datos, nodos, bloques y minería. Estos conceptos son claves, ya que son la base en la que está conformada esta tecnología, verás como se conecta uno a uno de los conceptos y al final de la sección podrás describir con mayor detalle la teoría detrás del Blockchain.
 
 Cada uno de las modalidades las podrás identificar al lado del nombre de cada lección con los siguientes iconos:
 
@@ -21,7 +21,7 @@ Videos: :camera:
 Notebooks: :blue_book:
 
 Tour guiado: :dart:
-| Modulo | Lección | Descripción | Fuente | Modalidad |
+| Módulo | Lección | Descripción | Fuente | Modalidad |
 | --- | --- | --- | --- | --- |
 | [01 - Conocimiento general de Blockchain](#información-general) | 1. Criptografía | Información general | Estrategía e Innovación de TI & Bancolombia | Lectura |
 | [01 - Conocimiento general de Blockchain](#funciones-hash) | 1. Criptografía | [Funciones hash](#funciones-hash) | Estrategía e Innovación de TI & Bancolombia | Lectura :page_facing_up: |
@@ -37,7 +37,7 @@ Tour guiado: :dart:
 
 ## **Información general**:
 
-- **Descripción:** Exploraremos información general de blockchain. Este módulo te proporcionará una comprensión más profunda de conceptos como funciones hash, llaves y conceptos matemáticaos detrás de esta tecnología. Aquí te ofrecemos dos fuentes donde puedes aprender, la primera un poco más corta [aquí](https://cryptobook.nakov.com/cryptography-overview) y la segunda con información más detallada [aquí](https://github.com/ethereumbook/ethereumbook/blob/develop/04keys-addresses.asciidoc).
+- **Descripción:** Exploraremos información general de blockchain. Este módulo te proporcionará una comprensión más profunda de conceptos como funciones hash, llaves y conceptos matemáticos detrás de esta tecnología. Aquí te ofrecemos dos fuentes donde puedes aprender, la primera un poco más corta [aquí](https://cryptobook.nakov.com/cryptography-overview) y la segunda con información más detallada [aquí](https://github.com/ethereumbook/ethereumbook/blob/develop/04keys-addresses.asciidoc).
 
 - **Idioma:** Ingles
 - **Contenido:**
@@ -49,7 +49,7 @@ Tour guiado: :dart:
 
 ## Funciones Hash:
 
-- **Descripción:** Exploraremos información general de las funciones hash. Te ofrecemos documentación con ejemplos reales de las funciones hash en blockchain [aquí](https://cryptobook.nakov.com/cryptographic-hash-functions).
+- **Descripción:** Exploraremos información general de las funciones hash. Te ofrecemos documentación con ejemplos reales de las funciones hash en blockchain [aquí](https://cryptobook.nakov.com/cryptographic-hash-functions). Además, para comprender mejor el proceso de cálculo de hash, puedes acceder a una calculadora interactiva que muestra el paso a paso del cálculo de SHA256 en el siguiente enlace: [Calculadora SHA256](https://sha256algorithm.com/)
 
 - **Idioma:** Ingles
 - **Contenido:**
@@ -60,7 +60,7 @@ Tour guiado: :dart:
 
 ## **Cifrado**:
 
-- **Descripción:** Exploraremos el cofrado o encriptación. Este módulo te proporciona información sobre los tipos de cifrado, tipos de llaves criptográficas, sistemas de encriptación de llaves públicas, etc...  [Aquí](https://cryptobook.nakov.com/encryption-symmetric-and-asymmetric).
+- **Descripción:** Exploraremos el cifrado o encriptación. Este módulo te proporciona información sobre los tipos de cifrado, tipos de llaves criptográficas, sistemas de encriptación de llaves públicas, etc...  [Aquí](https://cryptobook.nakov.com/encryption-symmetric-and-asymmetric). Además, para entender un poco más el proceso que hay detrás de las curvas elípticas, se sugiere ver el video relacionado que proporciona una explicación detallada sobre este tema. Puedes acceder al video [Aquí](https://www.youtube.com/watch?v=yBr3Q6xiTw4).
 
 - **Idioma:** Ingles
 - **Contenido:**
@@ -94,7 +94,7 @@ Tour guiado: :dart:
     
 ## **Pequeñas Lecciones**:
 
-- **Descripción:** En esta sección reforzarás los conceptos adquiridos a partir de pequeños retos o ejercicios de deberás resolver en el siguiente enlace. [Aquí](https://cryptohack.org/) 
+- **Descripción:** En esta sección reforzarás los conceptos adquiridos a partir de pequeños retos o ejercicios que deberás resolver en el siguiente enlace. [Aquí](https://cryptohack.org/) 
 
 - **Idioma:** Ingles
 - **Contenido:**
@@ -121,7 +121,7 @@ Tour guiado: :dart:
 
 ## **Cadena de Bloques**:
 
-- **Descripción:** Exploraremos información general de blockchain. [aquí](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc). De esta información de invitamos a leer las secciones:
+- **Descripción:** Exploraremos información general de blockchain. [aquí](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch11_blockchain.adoc). De esta información de invitamos a leer las secciones:
 
 - **Idioma:** Ingles
 - **Contenido:**
@@ -148,7 +148,7 @@ Tour guiado: :dart:
 
 ## **Información general**:
 
-- **Descripción:** La minería blockchain es un componente esencial para mantener la integridad, seguridad y descentralización de las redes basadas en esta tecnología, asegurando que los nuevos bloques sean agregados a la cadena de bloques de manera segura y verificable. En esta sección conocerás con más detalle sobre este concepto. [Aquí](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc). Te recomendamos mayor atención en secciones que consideramos claves, las cuales listamos a continuación.
+- **Descripción:** La minería blockchain es un componente esencial para mantener la integridad, seguridad y descentralización de las redes basadas en esta tecnología, asegurando que los nuevos bloques sean agregados a la cadena de bloques de manera segura y verificable. En esta sección conocerás con más detalle sobre este concepto. [Aquí](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch12_mining.adoc). Te recomendamos mayor atención en secciones que consideramos claves, las cuales listamos a continuación.
 
 - **Idioma:** Ingles
 - **Contenido:**
